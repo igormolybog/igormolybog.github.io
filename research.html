@@ -1,0 +1,106 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
+  "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head>
+<meta name="generator" content="jemdoc, see http://jemdoc.jaboc.net/" />
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<link rel="stylesheet" href="jemdoc.css" type="text/css" />
+<title>Research</title>
+</head>
+<body>
+<table summary="Table for page layout." id="tlayout">
+<tr valign="top">
+<td id="layout-menu">
+<div class="menu-category">Menu</div>
+<div class="menu-item"><a href="index.html">Home</a></div>
+<div class="menu-item"><a href="research.html" class="current">Research</a></div>
+<div class="menu-item"><a href="CV.pdf">CV</a></div>
+<div class="menu-item"><a href="https://scholar.google.com/citations?user=aJUg17UAAAAJ&hl=en">Publications</a></div>
+<div class="menu-item"><a href="https://github.com/igormolybogFB">GitHub</a></div>
+<div class="menu-category">Teaching</div>
+<div class="menu-item"><a href="ieor240.html">IEOR240</a></div>
+<div class="menu-item"><a href="ieor169.html">IEOR169</a></div>
+</td>
+<td id="layout-content">
+<div id="toptitle">
+<h1>Research</h1>
+</div>
+<p>The diversity and complexity of computational problems arising in applications related to data analytics 
+are overwhelming. Development and study of the applicability of optimization techniques in different scopes are
+at the very core of my research. Broadly speaking, my goal is to discover tractable ways to solve real-world
+problems in industrial applications and understand the essential properties of their solutions.
+</p>
+<h2>Large-scale smooth optimization for Generative AI</h2>
+<p>In light of the recent advances in Natural Language Processing, Large Language Models are
+making their way into production, provoking massive investments into the training of bigger foundational models. 
+This branch of Operations Research is dedicated to the solution of the fundamental problems in mathematical 
+programming that need to be addressed before the following milestones in Large Modeling become reachable. 
+The topics here include: scaling traditional optimizers to trillions of parameters, smooth distributed 
+optimization over tens of thousands of machines, continuous model growth, among others.
+This research direction spans the intersection between Mathematical Optimization Theory, 
+Core Machine Learning, and High-Performance Computing.
+</p>
+<h2>Sampling complexity of data science problems</h2>
+<p>Convex relaxations of computationally difficult problems are a vital tool in analyzing highly structured systems, 
+such as power systems. They are typically used as a heuristic for the solution of optimal power flow problems and 
+their variations, mixed-integer programming formulations arising in logistics, scheduling, and production planning, 
+and the approximation of max-cut problems in integrated circuit design. In the past, profound results from algebraic 
+geometry and measure theory allowed the development of a systematic approach to the convexification of 
+general-purpose polynomial optimization, namely the Lasserre hierarchy. However, this method has found limited 
+applications in practice, in part, due to the complicated analysis of computational complexity under a high data 
+volume regime. In one of my early works <a href="https://ojs.aaai.org/index.php/AAAI/article/download/3971/3849" target=&ldquo;blank&rdquo;>On Sampling Complexity of the Semidefinite Affine Rank Feasibility Problem</a>, we provided an in-depth analysis of an 
+alternative systematic method of convexification for the NP-hard problem of polynomial regression. More specifically, 
+in this paper, we studied the sampling complexity of the semidefinite affine rank feasibility problem, which consists 
+in finding a positive semidefinite matrix of a given rank from its linear measurements. We considered semidefinite 
+programming relaxations of the problem with systematically constructed objective functions and studied their 
+properties. In particular, we proposed an analytical bound on the number of relaxations that are sufficient to 
+solve in order to obtain a solution of a generic instance of the semidefinite affine rank feasibility problem or 
+prove that there is no solution to it. This bound is followed by a heuristic algorithm based on semidefinite 
+relaxation and an experimental testament of its performance on a large sample of synthetic data. As one of the main 
+contributions of this paper, we were able to observe the information-computation tradeoff in this problem and 
+captured how the increasing amount of data causes the problem to go from NP-hard to tractable in the process of a 
+phase transition.
+</p>
+<h2>Robust analysis of interconnected systems</h2>
+<p>The cybersecurity of electrical grids is considered to be one of the critical problems of the 21st century. 
+The aftermath of a power grid emergency took billions of dollars to repair in the past (e.g., major blackouts of 
+1977, 2003, and 2019 in Northern America). With the advancement of automation and the transition to smart grids, 
+the stakes become even higher. Among the most dangerous threats to a power system is the failure of a control unit 
+that can lead to inefficient or even self-destructing modes of operation. While it is possible to impose 
+high-security standards for the central controller, enforcing the protection of all of the periphery infrastructure, 
+such as electrical current measurement devices, is often infeasible, making manipulating the measurements a potential 
+threat. This leaves vulnerability in the system's defense against a hacker attack, as even a perfectly functional 
+control algorithm could be tricked into self-adversarial behavior given corrupted data. This vulnerability cannot 
+be offset by the standard provably robust data processing methods as they are developed for linear systems, which 
+is often not an acceptable model for the power grid. In <a href="https://par.nsf.gov/servlets/purl/10107620" target=&ldquo;blank&rdquo;>Conic optimization for robust quadratic regression: Deterministic bounds and statistical analysis</a> and 
+<a href="https://www.jmlr.org/papers/volume21/18-881/18-881.pdf" target=&ldquo;blank&rdquo;>Conic Optimization for Quadratic Regression Under Sparse Noise</a>, we developed 
+the first algorithms to learn the states of a nonlinear (quadratic) system subject to sparse adversarial noise, 
+which is well-suited for power flow analysis. It is important to note that even without noise, quadratic regression 
+is an NP-hard problem, almost as general as the polynomial and the general nonlinear regression problems. This 
+makes quadratic regression at least as hard as the polynomial optimization from the computational complexity 
+viewpoint. Introducing adversarial noise into the system makes it even harder in general. The proposed algorithms 
+are constructed to tolerate sparse errors of arbitrary magnitude, which makes them applicable in the situations of 
+a hacker's attack when a relatively small portion of data is adversarially modified to impact the decision-making 
+process that follows the solution. They are based on penalized semidefinite and second-order convex relaxations. 
+Under the assumption of the data being Gaussian, we were able to theoretically prove the exactness of these 
+relaxations by adapting the technique of primal-dual witness. The practical efficacy of the developed methods was 
+demonstrated on synthetic data and the data of the power system state estimation (PSSE) problem for the European 
+power grid (with over 1300 buses) under injected sparse adversarial noise combined with dense white noise. We 
+further advanced our results in <a href="https://par.nsf.gov/servlets/purl/10156146" target=&ldquo;blank&rdquo;>Towards robust and scalable power system state estimation</a> 
+and <a href="https://par.nsf.gov/servlets/purl/10156149" target=&ldquo;blank&rdquo;>Scalable and robust state estimation from abundant but untrusted data</a>, presenting a PSSE-specific two-stage algorithm tolerant 
+to sparse noise, which can significantly improve real-time situational awareness of a power grid operation. Having 
+local search at its core, the proposed method exhibited good scalability for large systems with more than 13,000 
+buses. For large systems, it takes only a few minutes to converge on a standard computer, but it tolerates less 
+corrupted measurements in contrast to semidefinite programming relaxation approaches, representing another level 
+of the information-computation tradeoff.
+</p>
+<h2>The complexity of non-convex optimization in applied data science</h2>
+<p>Despite its generality and importance of theoretical guarantees, the general techniques of conic optimization have difficulties scaling to very high-dimensional applications. In the last decades, non-convex formulations solved with local search methods to local optimality have had tremendous success for various problems, most notably the training of artificial neural networks (ANNs) and other predictors in machine learning. For example, tackling the problem of low-rank matrix sensing via non-convex formulations was proven to be worthy in practice, while the explanation of its success remained insufficient. The existing results usually connect this phenomenon to the notion of restricted isometry property, although the conditions that result from it hardly hold in real-world problems where the amount of data is not exorbitantly high. To address this issue, we used tools from conic optimization to develop necessary and sufficient conditions for the inexistence of spurious local solutions in the non-convex matrix sensing formulation. We developed the novel notion of kernel structure property and conditions that are more likely to be satisfied in instances arising from the analysis of sparse networks, such as power and transportation systems. The study led to a series of works (<a href="https://people.eecs.berkeley.edu/~sojoudi/SRIP_21.pdf" target=&ldquo;blank&rdquo;>No spurious solutions in non-convex matrix sensing: Structure compensates for isometry</a>, <a href="https://people.eecs.berkeley.edu/~sojoudi/KSP_2019_1.pdf" target=&ldquo;blank&rdquo;>Role of sparsity and structure in the optimization landscape of non-convex matrix sensing</a>) where we used our approach to analytically prove that the low-rank Q-norm minimization problem does not possess spurious local minima and also experimentally demonstrated that one should not expect spurious local solutions in problems that possess low-dimensional structures.
+</p>
+<p>In modern supervised machine learning applications such as Neural Language Processing and Computer Vision, practitioners often resort to model architectures with the number of parameters being large even compared to the number of training samples they can access. Although typically, the top performance is achieved through manipulating the interpolating model by slightly restricting its complexity one way or another, it is possible to obtain a compatible model without this additional tuning. There is a surprising phenomenon of double descent of the generalization curve that has been spotted recently. In the parameterized space of model architectures, where the simpler models with fewer variables correspond to the smaller value of the capacity parameter and the size and complexity of model architecture grow as the parameter rises, it is often possible to identify two performance regimes in learning a particular dataset. The first regime is called the classical regime: it is characterized by the comparably low values of the capacity parameter, a nonzero training error, and the U-shaped test error curve, representing the bias-variance tradeoff. The second regime is characterized by the larger capacity and the zero training error, or the exact interpolation of the training dataset, which gives it its name: the interpolating regime. The fact that local search algorithms are usually capable of achieving the interpolation threshold is surprising and not evident on its own. What makes it completely counterintuitive is that the test error curve in this regime has been observed to go down in some cases instead of continuing to climb up, which is referred to by some researchers as the 'double descent.&rsquo; This subject of rising interest motivated me to look into the questions of global convergence in learning algorithms. In particular, I have found the necessary and sufficient conditions of entering the interpolating regime in the meta-learning algorithm called the Model-Agnostic Meta-Learning (MAML), expanding this area of research beyond supervised learning problems. The result described in <a href="https://arxiv.org/pdf/2006.00453" target=&ldquo;blank&rdquo;>When Does MAML Objective Have Benign Landscape?</a> shows that the landscape of the objective function that MAML is ultimately trying to optimize is benign given that the underlying tasks are similar to each other and have benign landscapes as well. In other words, if the usual learning algorithms succeed in the interpolation of the individual tasks and the tasks are similar in their structure, then the MAML algorithm will likely succeed in interpolation during its meta-training procedure. This result is very general and covers various applications in supervised and unsupervised learning as well as reinforcement learning. We illustrated the idea by meta-learning the optimal linear quadratic regulator.
+</p>
+</td>
+</tr>
+</table>
+</body>
+</html>

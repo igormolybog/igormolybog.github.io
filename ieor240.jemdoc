@@ -1,0 +1,13 @@
+# jemdoc: menu{MENU}{IEOR240.html}, nofooter  
+=IEOR240 Optimization Analytics
+
+- [IEOR240/Week1.pdf Discussion 1: AMPL Tutorial]
+- [IEOR240/Week2.pdf Discussion 2: LP Formulation]
+- [IEOR240/Week3.pdf Discussion 3: Linear Algebra Recap]
+- [IEOR240/Week4.pdf Discussion 4: Feasibility and Infeasibility Certificates]
+- [IEOR240/Week5.pdf Discussion 5: Certificates: Boundedness and Optimality]
+- [IEOR240/Week6.pdf Discussion 6: Duality and Sensitivity]
+- [IEOR240/Week7.pdf Discussion 7: Simplex method]
+- [IEOR240/Week8.pdf Discussion 8: Simplex method II]
+- [IEOR240/Week9.pdf Discussion 9: Integer Programming]
+- [IEOR240/Week10.pdf Discussion 10: Integer Programming II]

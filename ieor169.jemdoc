@@ -1,0 +1,39 @@
+# jemdoc: menu{MENU}{IEOR169.html}, nofooter  
+=IEOR169 Integer Optimization
+
+- [https://docs.google.com/document/d/1GjRSb_PRoz-1hRAnAKmX7E6y4UhP6tJOMQRy91ePCPE/edit?usp=sharing Course Syllabus]
+- [https://www.overleaf.com/read/qdsngnxbchpm Lecture Slides]
+- [https://www.youtube.com/channel/UCAV9nY8KGsK9t5KNgpkro2w Recordings]
+
+== Discussion slides
+
+- [https://docs.google.com/presentation/d/1pCIucf_ypa6iirqV5OadiiBH84P9f789L92WLEOsPWE/edit?usp=sharing IP formulations]
+- [https://docs.google.com/presentation/d/11DyyiPah_9sriaSIq2q7ax7z3y8OX-Qfmc8mW4b9Cmk/edit?usp=sharing LP dual]
+- [https://docs.google.com/presentation/d/1S-vtIsEaAMzuY6uaFXMFmhpvYka0bd75HlI93iupDrw/edit?usp=sharing Dual bounds]
+- [https://docs.google.com/presentation/d/1kpWq3guYMuzYhBOjvPzycKcDZ8B_olCizqDJfzAeyPY/edit?usp=sharing Primal bounds]
+- [https://docs.google.com/presentation/d/1dtjFmWy4yNUzsO6-S5bmFn24y7UL33XwywcZF96Bn1s/edit?usp=sharing Easy problems]
+- [https://docs.google.com/presentation/d/1jsePeLzkS2Qk_Udu4QNVPJhqw0DQe1uqfvbPYqrSO4M/edit?usp=sharing Branch-and-bound]
+- [https://docs.google.com/presentation/d/1vODGpcvWvFP04H49wtrFBmg1F9PEu3zyWlnfy6XsAMs/edit?usp=sharing Cutting planes]
+- [https://docs.google.com/presentation/d/1qwxuJEA_3vqr6Ha5vljHlBKGEsBIjzDuwwcGg5O-Psw/edit?usp=sharing Branch-and-cut]
+
+
+
+
+== Homework assignments
+
+- [IEOR169/homework_assignnments/IEOR_169_PS1.pdf Problem set 1]
+- [IEOR169/homework_assignnments/IEOR_169_PS2.pdf Problem set 2]
+- [IEOR169/homework_assignnments/IEOR_169_PS3.pdf Problem set 3]
+- [IEOR169/homework_assignnments/IEOR_169_PS4.pdf Problem set 4]
+- [IEOR169/homework_assignnments/IEOR_169_PS5.pdf Problem set 5]
+- [IEOR169/homework_assignnments/IEOR_169_PS6.pdf Problem set 6]
+
+
+
+== Additional materials
+
+- [IEOR169/additional_materials/ILP_logical_conditions.pdf Logical conditions]
+- [IEOR169/additional_materials/LP_notes_2021.pdf Linear programming]
+- [https://docs.google.com/presentation/d/13q7Psr_pGBACyhDzXJ1fytKXq5pAF1S2twoa4dhlV_w/edit?usp=sharing Bender's Algorithm Example]
+- [https://docs.google.com/presentation/d/1Q-sWbQGdveQANbet9I8IGAlYjUYeP7XfB93wHup6wyE/edit?usp=sharing Branch and cut for Knapsack]
+
