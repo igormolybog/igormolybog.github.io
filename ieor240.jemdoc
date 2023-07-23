@@ -1,4 +1,4 @@
-# jemdoc: menu{MENU}{IEOR240.html}, nofooter  
+# jemdoc: menu{MENU.jemdoc}{IEOR240.html}, nofooter  
 =IEOR240 Optimization Analytics
 
 - [IEOR240/Week1.pdf Discussion 1: AMPL Tutorial]

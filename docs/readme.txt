@@ -1,6 +1,5 @@
-To render the website please open the terminal (on the top in WinSCP) and then do
+in Git Bash run:
 
-python jemdoc.py index.jemdoc
-python jemdoc.py research.jemdoc
-python jemdoc.py ieor240.jemdoc
-...
+cd <repo home dir>
+
+bash refre.sh

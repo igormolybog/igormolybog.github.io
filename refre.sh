@@ -1,0 +1,1 @@
+for FILE in *.jemdoc; do python jemdoc.py $FILE; done

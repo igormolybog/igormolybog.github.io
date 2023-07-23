@@ -1,4 +1,4 @@
-# jemdoc: menu{MENU}{research.html}, nofooter  
+# jemdoc: menu{MENU.jemdoc}{research.html}, nofooter  
 =Research
 
 The diversity and complexity of computational problems arising in applications related to data analytics 
