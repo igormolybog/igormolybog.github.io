@@ -19,7 +19,7 @@ interests cover the area of computational techniques for learning from data
 that are highly scalable with the availability of the compute. More specifically, I am working on optimizers 
 and model architecture scaling schemes that would allow predictable 
 and efficient training of Transformer models containing hundreds of billions of parameters.
-
+\n
 In 2022, I graduated with a Ph.D. from the group of [http://www.ieor.berkeley.edu/~lavaei/ Professor Javad Lavaei] at the Department of 
 Industrial Engineering and Operations Research at University of California, Berkeley, where I worked
 on problems of algorithmic analysis and optimal control of complex safety-critical systems, such as power systems, 
@@ -41,6 +41,7 @@ Reshuffling. Please join us at HH 386 at 11 am! ([https://drive.google.com/file/
 - April 2023: Our paper [https://people.eecs.berkeley.edu/~sojoudi/Saddle_2023_1.pdf Over-parametrization via Lifting for Low-rank Matrix Sensing: Conversion of Spurious Solutions to Strict Saddle Points] got accepted at the 2023 International Conference on Machine Learning (ICML).
 - March 2023: New paper [https://arxiv.org/abs/2304.09871 A Theory on Adam Instability in Large-Scale Machine Learning] is accessible online.
 - January 2023: New paper [https://people.eecs.berkeley.edu/~sojoudi/Saddle_2023_1.pdf Over-parametrization via Lifting for Low-rank Matrix Sensing: Conversion of Spurious Solutions to Strict Saddle Points] is accessible online.
+- December 2022: I am going to join the [https://www.ee.hawaii.edu/ Department of Electrical and Computer Engineering at University of Hawai'i at Manoa] as a faculty member!
 - October 2022: I am invited to organize a session "Large-scale smooth optimization for Generative AI" at the [https://meetings.informs.org/wordpress/phoenix2023/ INFORMS Annual Meeting 2023].
 - June 2022: I am joining [https://ai.facebook.com/ Meta AI (FAIR)] as a Research Scientist specializing on large-scale optimization.
 - May 2022: I defended my thesis and graduated with a Ph.D. in Engineering! 
