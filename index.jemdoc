@@ -31,6 +31,7 @@ that are robust to noise and highly scalable with the amount of available comput
 
 == News
 
+- March 2024: At 4 PM on 24 Apr, HawAII is happy to host [https://a2c2.org/contact/daniel-abramovitch Daniel Abramovitch] (Agilent Labs), [https://a2c2.org/contact/richard-d-braatz Richard Braatz] (MIT), and [https://www.mech.utah.edu/directory/faculty/kam-k-leang/ Kam Leang] (U. Utah) with a talk on automatic control! [https://forms.gle/xph5u3ooTraQYuuh6 RSVP here], location TBD.
 - February 2024: Our research group has been awarded compute resources by the [https://cloud.google.com/edu/researchers?hl=en Google Cloud Research Credits Program]
 - February 2024: Our paper [https://arxiv.org/abs/2305.10563 HaSa: Hardness and Structure-Aware Contrastive Knowledge Graph Embedding] has been accepted at [https://www2024.thewebconf.org/ The Web Conference 2024]
 - January 2024: Our research group has been awarded compute resources by the [https://allocations.access-ci.org/ ACCESS Allocations] program.
@@ -38,7 +39,7 @@ that are robust to noise and highly scalable with the amount of available comput
 - January 2024: We are delighted to announce the [https://haw-aii.github.io Hawai'i Artificial Intelligence Initiative] aiming to accelerate AI research at UHM by fostering collaboration
 - December 2023: On 18 Dec, we are happy to host [https://www.xiao-li.org/ Prof. Xiao Li from CUHK] with a talk on Convergence Guarantees for SGD with Random
 Reshuffling. Please join us at HH 386 at 11 am! ([https://drive.google.com/file/d/1-NwZPMuimE3ZwhTpK5IkfZxfAB49EkDx/view?usp=sharing recording])
-- October 2023: I am chairing session WA67 "Challanges in the Large-scale Model Training" at INFORMS Annual Meeting 2023!
+- October 2023: I am chairing session WA67 "Challenges in the Large-scale Model Training" at INFORMS Annual Meeting 2023!
 - October 2023: I have presented a talk on the Large Language Modeling practice at the CS Department seminar of UH Manoa: [https://drive.google.com/file/d/19H5-6PspYAjf4sgSefM0HrnjgRgj1060/view?usp=sharing recording], [https://drive.google.com/file/d/1X4KBCU0DiHtQ0aJrLlYKe8509hZFilcY/view?usp=sharing slides]
 - September 2023: A new paper on extending the context length of a trained RoPE transformer: [https://arxiv.org/pdf/2309.16039.pdf Effective Long-Context Scaling of Foundation Models]
 - July 2023: Our paper [https://ai.meta.com/research/publications/llama-2-open-foundation-and-fine-tuned-chat-models/ Llama 2: Open Foundation and Fine-Tuned Chat Models] landed with a splash, [https://news.ycombinator.com/item?id=36774627 making it to the top] of hackernews.
