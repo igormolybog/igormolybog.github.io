@@ -33,6 +33,10 @@ that are robust to noise and highly scalable with the amount of available comput
 
 == News
 
+- November 2024: I presented the [https://arxiv.org/abs/2409.17169 REAL: Response Embedding-based Alignment for LLMs] at the UHM ICS seminar! The [https://docs.google.com/presentation/d/13BkDbaKT22WtJeTQPXfthmFd1MTaREbJxp82m_BH2Vc/edit?usp=sharing slides] and [https://drive.google.com/file/d/1KwnQpB5IppVDV_1rKv9xpGwFwMRjmI6X/view?usp=sharing recording] are available. 
+- October 2024: [https://honggen-zhang.github.io/ Honggen Zhang], an LLM expert working with my group is entering the job market this year!
+- September 2024: We welcome [https://www.linkedin.com/in/yosubshin/ Yosub Shin] as a full-time Graduate Researcher to our research group, working on advanced models for video processing and multimodal understanding.
+- September 2024: We developed REAL - a simple algorithm for efficient high-quality preference data generation. The preprint is available online: [https://arxiv.org/abs/2409.17169 REAL: Response Embedding-based Alignment for LLMs].
 - August 2024: I am participating in the [https://manoa.hawaii.edu/ovprs/ai-in-higher-education-panel/ AI Panel] on October 11, 2024.
 - July 2024: At noon on 1 Aug, I am giving a talk "Scaling generative modeling across model sizes and data modalities" at the lab meeting of [https://www.nygenome.org/ New York Genome Center].
 - July 2024: At noon on 26 July, HawAII is happy to host [https://sites.google.com/view/nikitazhivotovskiy/ Nikita Zhivotovsky] from UC Berkeley who will deliver a talk on Improving Risk Bounds with Unbounded Losses via Data-Dependent Priors. Join us in POST 302!
