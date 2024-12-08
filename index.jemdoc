@@ -17,18 +17,31 @@ If you are a prospective or admitted graduate student interested in joining my g
 ~~~
 
 == About me
-I am a researcher working on the training of Generative Artificial Intelligence. My research 
-interests cover the area of computational techniques for learning from data
-that are highly scalable with the availability of the compute. More specifically, I am working on optimizers 
-and model architecture scaling schemes that would allow predictable 
-and efficient training of Transformer models containing hundreds of billions of parameters.
-\n
-In 2022, I graduated with a Ph.D. from the group of [http://www.ieor.berkeley.edu/~lavaei/ Professor Javad Lavaei] at the Department of 
-Industrial Engineering and Operations Research at University of California, Berkeley, where I worked
-on problems of algorithmic analysis and optimal control of complex safety-critical systems, such as power systems, 
-transportation and telecommunication networks, AI recommendation and navigation systems, robotic systems, and others.
-My research spanned the theory of non-convex and conic optimization, stochastic control, machine learning,
-and computational and sampling complexity of learning algorithms. I designed data processing algorithms 
+I am an AI researcher specializing in large language models (LLM), focusing on the efficient 
+development and robust evaluation of computer systems that automate economically 
+viable yet tedious tasks typically requiring human intervention. 
+My current areas of interest include:
+
+- *Expanding AI's Impact:* Identifying novel use cases for automation with LLM and 
+novel tasks for increasing professionals productivity. Developing frameworks for robust evaluation of AI agents.
+Sourcing diverse data to address unique challenges in emerging applications. 
+- *Multimodal Modeling:* Integrating video and other sensory modalities into AI reasoning to advance applications 
+in robotics and other cyber-physical systems. Enhancing large language models' capabilities in 
+computer programming and mathematical problem-solving.
+- *Core Machine Learning and Scaling:* Addressing efficiency challenges and fundamental obstacles to expand the 
+computational resources available to AI systems. Optimizing the design of modeling experiments and 
+developing predicatable training processes.
+
+I teach courses and supervise research projects on large language modeling and associated topics
+within ECE and ICS departments of UH Manoa.
+Previously, I worked on the large-scale distributed computing experiments and
+training codebase for large language modeling within Meta AI, which contributed
+to the release of the famous LLaMa models.
+
+My background is in Applied Mathematics and Operations Research. In 2022, I graduated with a Ph.D.
+in Engineering from UC Berkeley, where I worked on learning algorithms for data analysis and control of complex safety-critical systems.
+My dissertation under supervision of [http://www.ieor.berkeley.edu/~lavaei/ Professor Javad Lavaei] spanns the theory of non-convex and conic optimization, stochastic control, machine learning,
+focusing on computational and sampling complexity of learning algorithms. I designed data processing algorithms 
 that are robust to noise and highly scalable with the amount of available computational resources.
 
 == News
