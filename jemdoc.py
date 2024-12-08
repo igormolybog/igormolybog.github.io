@@ -807,7 +807,7 @@ def br(b, f, tableblock=False):
   # Deal with paragraph break. Caution! Should only use when we're already in
   # a paragraph.
   r = re.compile(r"(?<!\\)\\p", re.M + re.S)
-  b = re.sub(r, r'</p><p>', b)
+  b = re.sub(r, r'</p></li></ul><p>', b)
 
   if tableblock:
     # Deal with ||, meaning </td></tr><tr><td>
