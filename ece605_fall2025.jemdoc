@@ -1,0 +1,23 @@
+# jemdoc: menu{MENU.jemdoc}{ece605_fall2025.html}, nofooter  
+=ECE605 Large-Scale AI
+
+- [https://docs.google.com/document/d/1di0NDyc6vTItR4dZVuERc2kP1JaJc2R30wtFswMuaP0/edit?usp=sharing Course Syllabus]
+- [https://drive.google.com/drive/folders/1Gf_0b4a-djgnRqPnCDU7HUE9n4YKfl-T?usp=sharing Recordings]
+- [https://drive.google.com/drive/folders/1zQGviOpTluYWJGdlMRZ-YT4PmhPDsxhN?usp=sharing Lecture slides]
+- [https://discord.gg/f5vgCDFede Discord forum]
+- [https://forms.gle/XeEk9i8bEf5buNpm7 Project submission form]
+
+== Class schedule
+- Monday and Wednesday, 10:30-11:45, Holmes Hall 389 ([https://hawaii.zoom.us/j/84384222329 zoom link]; password: ece)
+- Office hours: by [https://calendar.app.google/mLp9CvS96utpEjDK6 appointment] or after class
+
+== Role-playing seminar
+- [https://docs.google.com/spreadsheets/d/1wtThboxikzca4qC90qWY6w85kunc77FZf3fppjybTRU/edit?usp=sharing Sign-up sheet]
+- Upload the materials (slides, code, links to Notion, etc) presented during the paper seminar into the corresponding subfolders of the [https://drive.google.com/drive/folders/1Gf_0b4a-djgnRqPnCDU7HUE9n4YKfl-T?usp=sharingg Paper Seminars Materials folder]
+
+
+== Additional materials
+
+- [https://huggingface.co/papers Huggingface daily papers]
+- [https://github.com/elicit/machine-learning-list?tab=readme-ov-file Reading list]
+- [https://forms.gle/Bfwgb3M7QhxDwfRD6 Anonymous feedback form]
