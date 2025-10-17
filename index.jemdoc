@@ -47,6 +47,9 @@ that are robust to noise and highly scalable with the amount of available comput
 
 == News
 
+- October 2025: At 15:30 on Oct 8, I am giving a talk on Empirical Sequence Modeling at the Applied Math Seminar of the Department of Mathematics at UH Manoa. [https://docs.google.com/presentation/d/1yrwY1PzXK-5fgqHYr6jb7T7HyCeONBT4r5rwYKCDogs/edit?usp=sharing slides are available]
+- September 2025: The closed beta of our AI class companion (tutor, customizable by the instructor) is now hosted at [https://alu.institute/login alu.institute]. It is being served for the students enrolled in the pilot UH Manoa classes (ECE345, BUS619, ECON336) and whitelisted individuals. Please reach out if you want to try it in your class!
+- August 2025: I am honored to deliver the keynote address on the state of AI at the SCV x SBI venture capital annual conference on Aug 13. The slides can be found [https://docs.google.com/presentation/d/1bx_y3wEYCwdjWpHvvAczOlYEGeU7-IINrjfuAbfMp2g/edit?usp=sharing here].
 - July 2025: We are assembling a cross-institutional team to participate in the [https://virtualcellchallenge.org/ ARC Institute Virtual Cell Challenge]. This challenge focuses on predicting cellular responses to genetic or chemical perturbations using AI models. Please reach out if you are interested in participation or collaboration!
 - June 2025: We are releasing a preprint of our paper on the pitfalls of vision-based video synchronization: [https://arxiv.org/abs/2506.15937 "Beyond Audio and Pose: A General-Purpose Framework for Video Synchronization"].
 - June 2025 Our paper [https://arxiv.org/abs/2409.17169 REAL: Response Embedding-based Alignment for LLMs] will be presented at [https://ijcai2025-workshop.github.io/causal-learning-recsys/ IJCAI2025 workshop on Causal Learning for Recommendation Systems.]
