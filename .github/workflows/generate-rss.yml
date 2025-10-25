@@ -1,5 +1,8 @@
 name: Generate RSS feed
 
+permissions:
+  contents: write
+
 on:
   push:
     branches: [main, master]
@@ -26,12 +29,14 @@ jobs:
 
       - name: Commit and push news.xml if changed
         run: |
-          if git diff --quiet news.xml; then
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          # Stage the file even if it's new/untracked
+          git add news.xml
+          # If nothing staged, skip committing
+          if git diff --cached --quiet; then
             echo "No changes to news.xml"
             exit 0
           fi
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add news.xml
           git commit -m "chore(rss): update news.xml"
           git push
