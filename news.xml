@@ -1,0 +1,500 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Igor Molybog - News</title>
+    <link>https://igormolybog.github.io/</link>
+    <description>Updates from the News section</description>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 25 Oct 2025 23:51:38 +0000</lastBuildDate>
+    <item>
+      <title>The pre-print for our new paper [https://arxiv</title>
+      <link>https://arxiv.org/abs/2510.19864</link>
+      <guid isPermaLink="false">d04405c687543790535eff771c7a76894ecd1aad</guid>
+      <pubDate>Sat, 01 Nov 2025 12:00:00 +0000</pubDate>
+      <description>November 2025: The pre-print for our new paper SODBench: A Large Language Model Approach to Documenting Spreadsheet Operations (https://arxiv.org/abs/2510.19864) led by Amila Indika (https://www.linkedin.com/in/amila-indika/) is available online.</description>
+    </item>
+    <item>
+      <title>At 13:30 on 23 of October, HawAII is happy to host [https://baulab</title>
+      <link>https://baulab.info/</link>
+      <guid isPermaLink="false">9671e6441dadcca14ff397d51e782fb92d260f12</guid>
+      <pubDate>Wed, 01 Oct 2025 12:00:00 +0000</pubDate>
+      <description>October 2025: At 13:30 on 23 of October, HawAII is happy to host David Bau (https://baulab.info/) from Northeastern University in Boston who will deliver a talk on Mechanistic Interpretability of large neural networks. Please join us in Holmes Hall 411!</description>
+    </item>
+    <item>
+      <title>At 15:30 on Oct 8, I am giving a talk on Empirical Sequence Modeling at the [https://math</title>
+      <link>https://math.hawaii.edu/wordpress/applied-math-seminar/</link>
+      <guid isPermaLink="false">8cb58f7365a692d6f53f99f9124a9db0ddbf686d</guid>
+      <pubDate>Wed, 01 Oct 2025 12:00:00 +0000</pubDate>
+      <description>October 2025: At 15:30 on Oct 8, I am giving a talk on Empirical Sequence Modeling at the Applied Math Seminar (https://math.hawaii.edu/wordpress/applied-math-seminar/) of the Department of Mathematics at UH Manoa. slides are available (https://docs.google.com/presentation/d/1yrwY1PzXK-5fgqHYr6jb7T7HyCeONBT4r5rwYKCDogs/edit?usp=sharing)</description>
+    </item>
+    <item>
+      <title>The closed beta of our AI class companion (tutor, customizable by the instructor) is now hosted at [https://alu</title>
+      <link>https://alu.institute/login</link>
+      <guid isPermaLink="false">7379bbe5c3ba172117d84e0a3d03cd1a832ba380</guid>
+      <pubDate>Mon, 01 Sep 2025 12:00:00 +0000</pubDate>
+      <description>September 2025: The closed beta of our AI class companion (tutor, customizable by the instructor) is now hosted at alu.institute (https://alu.institute/login). It is being served for the students enrolled in the pilot UH Manoa classes (ECE345, BUS619, ECON336) and whitelisted individuals. Please reach out if you want to try it in your class!</description>
+    </item>
+    <item>
+      <title>I am honored to deliver the keynote address on the state of AI at the SCV x SBI venture capital annual conference on Aug 13</title>
+      <link>https://docs.google.com/presentation/d/1bx_y3wEYCwdjWpHvvAczOlYEGeU7-IINrjfuAbfMp2g/edit?usp=sharing</link>
+      <guid isPermaLink="false">ac1619b0384ef3d9b917fc06763b2e2088c484a9</guid>
+      <pubDate>Fri, 01 Aug 2025 12:00:00 +0000</pubDate>
+      <description>August 2025: I am honored to deliver the keynote address on the state of AI at the SCV x SBI venture capital annual conference on Aug 13. The slides can be found here (https://docs.google.com/presentation/d/1bx_y3wEYCwdjWpHvvAczOlYEGeU7-IINrjfuAbfMp2g/edit?usp=sharing).</description>
+    </item>
+    <item>
+      <title>We are assembling a cross-institutional team to participate in the [https://virtualcellchallenge</title>
+      <link>https://virtualcellchallenge.org/</link>
+      <guid isPermaLink="false">9c52ab84ffb246b71d2a7b69f199735d833920fb</guid>
+      <pubDate>Tue, 01 Jul 2025 12:00:00 +0000</pubDate>
+      <description>July 2025: We are assembling a cross-institutional team to participate in the ARC Institute Virtual Cell Challenge (https://virtualcellchallenge.org/). This challenge focuses on predicting cellular responses to genetic or chemical perturbations using AI models. Please reach out if you are interested in participation or collaboration!</description>
+    </item>
+    <item>
+      <title>We are releasing a preprint of our paper on the pitfalls of vision-based video synchronization: [https://arxiv</title>
+      <link>https://arxiv.org/abs/2506.15937</link>
+      <guid isPermaLink="false">c7901aa41529ff58daa1d0ca261064fb2ee8fea5</guid>
+      <pubDate>Sun, 01 Jun 2025 12:00:00 +0000</pubDate>
+      <description>June 2025: We are releasing a preprint of our paper on the pitfalls of vision-based video synchronization: "Beyond Audio and Pose: A General-Purpose Framework for Video Synchronization" (https://arxiv.org/abs/2506.15937).</description>
+    </item>
+    <item>
+      <title>Our paper [https://arxiv</title>
+      <link>https://arxiv.org/abs/2409.17169</link>
+      <guid isPermaLink="false">e59f5b51ee73bf9dbad36fff8754ef8f6a9bc8d5</guid>
+      <pubDate>Sun, 01 Jun 2025 12:00:00 +0000</pubDate>
+      <description>June 2025 Our paper REAL: Response Embedding-based Alignment for LLMs (https://arxiv.org/abs/2409.17169) will be presented at IJCAI2025 workshop on Causal Learning for Recommendation Systems. (https://ijcai2025-workshop.github.io/causal-learning-recsys/)</description>
+    </item>
+    <item>
+      <title>We are releasing a [https://www</title>
+      <link>https://www.dropbox.com/scl/fi/dk7595qkkhmqhdvdmhk3v/Roughcut-0.0.2.dmg?rlkey=w55wqeuiyu499rjetbmrkd6fa&amp;e=2&amp;st=zzmy76ao&amp;dl=0</link>
+      <guid isPermaLink="false">d492512b7360dbbd7ff9e87afa4287c8ba1be912</guid>
+      <pubDate>Sun, 01 Jun 2025 12:00:00 +0000</pubDate>
+      <description>June 2025: We are releasing a public demo version of Roughcut (https://www.dropbox.com/scl/fi/dk7595qkkhmqhdvdmhk3v/Roughcut-0.0.2.dmg?rlkey=w55wqeuiyu499rjetbmrkd6fa&amp;e=2&amp;st=zzmy76ao&amp;dl=0) - a video editing AI agent developed by Yosub Shin (https://www.linkedin.com/in/yosubshin/) in our lab. This MacOS app is focused on speech-heavy video and capable of conditional highlight extraction (https://www.loom.com/share/89ecb0c224f8485babb5bc05ae498c1c?sid=2b130377-e648-4803-8185-d887723cdc4d) and conversational editing via a chat interface (https://www.loom.com/share/85079491e45948c284621ed3572f782c?sid=3487789e-59f5-4483-91b5-1cb1d4a59542). We are actively sourcing feedback and encourage everyone to try it out!</description>
+    </item>
+    <item>
+      <title>Congratulations to [https://www</title>
+      <link>https://www.linkedin.com/in/honggen-zhang-2b42b0282</link>
+      <guid isPermaLink="false">3275864f9942d86f67d4b4385ca092b5251cd5b5</guid>
+      <pubDate>Thu, 01 May 2025 12:00:00 +0000</pubDate>
+      <description>May 2025: Congratulations to Honggen Zhang (https://www.linkedin.com/in/honggen-zhang-2b42b0282) for passing his dissertation defense! He is going to join XtalPi (https://en.xtalpi.com/) and contribute to AI drug development.</description>
+    </item>
+    <item>
+      <title>A new permanent graduate-level course [https://igormolybog</title>
+      <link>https://igormolybog.github.io/ece605_fall2025.html</link>
+      <guid isPermaLink="false">a3d5ef699009cbe0cb4fd1fae423689d5f4c5009</guid>
+      <pubDate>Tue, 01 Apr 2025 12:00:00 +0000</pubDate>
+      <description>April 2025: A new permanent graduate-level course ECE 605 (https://igormolybog.github.io/ece605_fall2025.html) on large-scale AI development and deployment will be taught in Fall 2025. It will include a series of paper-reading seminars where we will go over the most pressing technincal engineering challenges in the field and approaches to their solution.</description>
+    </item>
+    <item>
+      <title>[https://www</title>
+      <link>https://www.linkedin.com/in/amila-indika/</link>
+      <guid isPermaLink="false">5c55c17ca86ffe29b5effc36140829f6ea291242</guid>
+      <pubDate>Sat, 01 Mar 2025 12:00:00 +0000</pubDate>
+      <description>March 2025: Amila Indika (https://www.linkedin.com/in/amila-indika/), a talented Master's student under my co-supervision, is graduating this year and entering the job market!</description>
+    </item>
+    <item>
+      <title>I am visiting the [https://www</title>
+      <link>https://www.youtube.com/@jhuclsp/featured</link>
+      <guid isPermaLink="false">6a4c6fa39c965bad22438991b85cce3bb6a0737a</guid>
+      <pubDate>Wed, 01 Jan 2025 12:00:00 +0000</pubDate>
+      <description>January 2025: I am visiting the Center for Language and Speech Processing (CLSP) (https://www.youtube.com/@jhuclsp/featured) at Johns Hopkins Computer Science with a brand new talk on scaling properties of LLM inference systems scheduled on February 21, 2025 (12:00-13:15).</description>
+    </item>
+    <item>
+      <title>We are delighted to kick off Spring 2025 HawAII AI paper reading seminar</title>
+      <link>https://drive.google.com/file/d/19B898gc8oO9z95XkpXdEs7_sg4SvACLI/view?usp=sharing</link>
+      <guid isPermaLink="false">5a4c92a1fb5e96810594960e5f9c9cb0caf22792</guid>
+      <pubDate>Sun, 01 Dec 2024 12:00:00 +0000</pubDate>
+      <description>December 2024: We are delighted to kick off Spring 2025 HawAII AI paper reading seminar. Please see flyer (https://drive.google.com/file/d/19B898gc8oO9z95XkpXdEs7_sg4SvACLI/view?usp=sharing) for the schedule and other details.</description>
+    </item>
+    <item>
+      <title>I presented the [https://arxiv</title>
+      <link>https://arxiv.org/abs/2409.17169</link>
+      <guid isPermaLink="false">1a90d373fbe3e558e36369ade32ce917f90b6982</guid>
+      <pubDate>Fri, 01 Nov 2024 12:00:00 +0000</pubDate>
+      <description>November 2024: I presented the REAL: Response Embedding-based Alignment for LLMs (https://arxiv.org/abs/2409.17169) at the UHM ICS seminar! The slides (https://docs.google.com/presentation/d/13BkDbaKT22WtJeTQPXfthmFd1MTaREbJxp82m_BH2Vc/edit?usp=sharing) and recording (https://drive.google.com/file/d/1KwnQpB5IppVDV_1rKv9xpGwFwMRjmI6X/view?usp=sharing) are available.</description>
+    </item>
+    <item>
+      <title>[https://honggen-zhang</title>
+      <link>https://honggen-zhang.github.io/</link>
+      <guid isPermaLink="false">3fdaf5a70a632dafea5589eac0a0fb86754aae8f</guid>
+      <pubDate>Tue, 01 Oct 2024 12:00:00 +0000</pubDate>
+      <description>October 2024: Honggen Zhang (https://honggen-zhang.github.io/), an LLM expert working with my group is entering the job market this year!</description>
+    </item>
+    <item>
+      <title>We welcome [https://www</title>
+      <link>https://www.linkedin.com/in/yosubshin/</link>
+      <guid isPermaLink="false">f57f00939ed5208ebf13d517c7d3ec452454a385</guid>
+      <pubDate>Sun, 01 Sep 2024 12:00:00 +0000</pubDate>
+      <description>September 2024: We welcome Yosub Shin (https://www.linkedin.com/in/yosubshin/) as a full-time Graduate Researcher to our research group, working on advanced models for video processing and multimodal understanding.</description>
+    </item>
+    <item>
+      <title>We developed REAL - a simple algorithm for efficient high-quality preference data generation</title>
+      <link>https://arxiv.org/abs/2409.17169</link>
+      <guid isPermaLink="false">cc8348786c631817e88dd685f8bb53317fa5f610</guid>
+      <pubDate>Sun, 01 Sep 2024 12:00:00 +0000</pubDate>
+      <description>September 2024: We developed REAL - a simple algorithm for efficient high-quality preference data generation. The preprint is available online: REAL: Response Embedding-based Alignment for LLMs (https://arxiv.org/abs/2409.17169).</description>
+    </item>
+    <item>
+      <title>I am participating in the [https://manoa</title>
+      <link>https://manoa.hawaii.edu/ovprs/ai-in-higher-education-panel/</link>
+      <guid isPermaLink="false">7c4df6c81259c6699393996c98c62a267f91eaf0</guid>
+      <pubDate>Thu, 01 Aug 2024 12:00:00 +0000</pubDate>
+      <description>August 2024: I am participating in the AI Panel (https://manoa.hawaii.edu/ovprs/ai-in-higher-education-panel/) on October 11, 2024.</description>
+    </item>
+    <item>
+      <title>At noon on 1 Aug, I am giving a talk "Scaling generative modeling across model sizes and data modalities" at the lab meeting of [https://www</title>
+      <link>https://www.nygenome.org/</link>
+      <guid isPermaLink="false">46666cfca2f86b106409cadb4fa293c9a1992eb5</guid>
+      <pubDate>Mon, 01 Jul 2024 12:00:00 +0000</pubDate>
+      <description>July 2024: At noon on 1 Aug, I am giving a talk "Scaling generative modeling across model sizes and data modalities" at the lab meeting of New York Genome Center (https://www.nygenome.org/).</description>
+    </item>
+    <item>
+      <title>At noon on 26 July, HawAII is happy to host [https://sites</title>
+      <link>https://sites.google.com/view/nikitazhivotovskiy/</link>
+      <guid isPermaLink="false">0de4406f7ac1bd38c192fab1242c29d8ac1fd32c</guid>
+      <pubDate>Mon, 01 Jul 2024 12:00:00 +0000</pubDate>
+      <description>July 2024: At noon on 26 July, HawAII is happy to host Nikita Zhivotovsky (https://sites.google.com/view/nikitazhivotovskiy/) from UC Berkeley who will deliver a talk on Improving Risk Bounds with Unbounded Losses via Data-Dependent Priors. Join us in POST 302!</description>
+    </item>
+    <item>
+      <title>Our paper on the economic trajectory of AI development [http://dx</title>
+      <link>http://dx.doi.org/10.13140/RG.2.2.11362.75209</link>
+      <guid isPermaLink="false">cd3fcfb0edadad23a9248f68dd8d92875ce4455c</guid>
+      <pubDate>Sat, 01 Jun 2024 12:00:00 +0000</pubDate>
+      <description>June 2024: Our paper on the economic trajectory of AI development "What if synthetic data is all you need" (http://dx.doi.org/10.13140/RG.2.2.11362.75209) is available online!</description>
+    </item>
+    <item>
+      <title>A new [https://hawaii-ai</title>
+      <link>https://hawaii-ai.github.io/ai-seminar/</link>
+      <guid isPermaLink="false">ca19efb7cca120dd464e8a01242ce7e11ed1c0ba</guid>
+      <pubDate>Wed, 01 May 2024 12:00:00 +0000</pubDate>
+      <description>May 2024: A new HawAII reading group (https://hawaii-ai.github.io/ai-seminar/) just started! Please join us on Fridays 12:00-13:05 in POST 302 or reach out for a Zoom link.</description>
+    </item>
+    <item>
+      <title>Our paper [https://arxiv</title>
+      <link>https://arxiv.org/pdf/2309.16039.pdf</link>
+      <guid isPermaLink="false">5cea2aa095f0c73db216c4fed42aea9ebd34a5a6</guid>
+      <pubDate>Mon, 01 Apr 2024 12:00:00 +0000</pubDate>
+      <description>April 2024: Our paper Effective Long-Context Scaling of Foundation Models (https://arxiv.org/pdf/2309.16039.pdf) will be presented at NAACL 2024 conference (https://2024.naacl.org/)!</description>
+    </item>
+    <item>
+      <title>We are thrilled to announce an upcoming collaboration with [https://epochai</title>
+      <link>https://epochai.org/</link>
+      <guid isPermaLink="false">abb928cfa1d751843acc077e9dce9689b4277f32</guid>
+      <pubDate>Fri, 01 Mar 2024 12:00:00 +0000</pubDate>
+      <description>March 2024: We are thrilled to announce an upcoming collaboration with Epoch AI (https://epochai.org/) on the technical and economical aspects of scaling Artificial Intelligence systems.</description>
+    </item>
+    <item>
+      <title>At 4 PM on 24 Apr, HawAII is happy to host [https://a2c2</title>
+      <link>https://a2c2.org/contact/daniel-abramovitch</link>
+      <guid isPermaLink="false">c3053817ce6e0b38bbf120c62b9bc6b79d3b8af8</guid>
+      <pubDate>Fri, 01 Mar 2024 12:00:00 +0000</pubDate>
+      <description>March 2024: At 4 PM on 24 Apr, HawAII is happy to host Daniel Abramovitch (https://a2c2.org/contact/daniel-abramovitch) (Agilent Labs), Richard Braatz (https://a2c2.org/contact/richard-d-braatz) (MIT), and Kam Leang (https://www.mech.utah.edu/directory/faculty/kam-k-leang/) (U. Utah) in Webster Hall 203 with a talk on automatic control! zoom link (https://hawaii.zoom.us/j/91862139572); recording (https://drive.google.com/file/d/1zW5l9vWfwXvPXQnwkuZOP58VvyW6BbSo/view?usp=sharing); .</description>
+    </item>
+    <item>
+      <title>Our research group has been awarded compute resources by the [https://cloud</title>
+      <link>https://cloud.google.com/edu/researchers?hl=en</link>
+      <guid isPermaLink="false">7e88f3ca672057495117dd23ed5ab3d6d5a58782</guid>
+      <pubDate>Thu, 01 Feb 2024 12:00:00 +0000</pubDate>
+      <description>February 2024: Our research group has been awarded compute resources by the Google Cloud Research Credits Program (https://cloud.google.com/edu/researchers?hl=en)</description>
+    </item>
+    <item>
+      <title>Our paper [https://arxiv</title>
+      <link>https://arxiv.org/abs/2305.10563</link>
+      <guid isPermaLink="false">87f345b368bb1f1e38dfe6d35f073da6237f42c1</guid>
+      <pubDate>Thu, 01 Feb 2024 12:00:00 +0000</pubDate>
+      <description>February 2024: Our paper HaSa: Hardness and Structure-Aware Contrastive Knowledge Graph Embedding (https://arxiv.org/abs/2305.10563) has been accepted at The Web Conference 2024 (https://www2024.thewebconf.org/)</description>
+    </item>
+    <item>
+      <title>Our research group has been awarded compute resources by the [https://allocations</title>
+      <link>https://allocations.access-ci.org/</link>
+      <guid isPermaLink="false">888b26335320c586a8b63a7039129756ca2841a1</guid>
+      <pubDate>Mon, 01 Jan 2024 12:00:00 +0000</pubDate>
+      <description>January 2024: Our research group has been awarded compute resources by the ACCESS Allocations (https://allocations.access-ci.org/) program.</description>
+    </item>
+    <item>
+      <title>I am presenting the overview of my research to the Department of Information and Computer Sciences at UH Manoa on Tuesday, Jan 9, 2024, 1...</title>
+      <link>https://drive.google.com/file/d/1MFz1Et4EcjOx6eGp04DsEbDtZ9hk_BL6/view?usp=sharing</link>
+      <guid isPermaLink="false">746d9ad3e2f515865bbf0bbe3cae1a0427a4245c</guid>
+      <pubDate>Mon, 01 Jan 2024 12:00:00 +0000</pubDate>
+      <description>January 2024: I am presenting the overview of my research to the Department of Information and Computer Sciences at UH Manoa on Tuesday, Jan 9, 2024, 12:00-13:00, in Keller Hall 103. (recording (https://drive.google.com/file/d/1MFz1Et4EcjOx6eGp04DsEbDtZ9hk_BL6/view?usp=sharing))</description>
+    </item>
+    <item>
+      <title>We are delighted to announce the [https://haw-aii</title>
+      <link>https://haw-aii.github.io</link>
+      <guid isPermaLink="false">702aaa4ee2105e949dba19392576b33beab12099</guid>
+      <pubDate>Mon, 01 Jan 2024 12:00:00 +0000</pubDate>
+      <description>January 2024: We are delighted to announce the Hawai'i Artificial Intelligence Initiative (https://haw-aii.github.io) aiming to accelerate AI research at UHM by fostering collaboration</description>
+    </item>
+    <item>
+      <title>On 18 Dec, we are happy to host [https://www</title>
+      <link>https://www.xiao-li.org/</link>
+      <guid isPermaLink="false">eeefa40d8ad6367b0e7e54608f9c72613ee91f9f</guid>
+      <pubDate>Fri, 01 Dec 2023 12:00:00 +0000</pubDate>
+      <description>December 2023: On 18 Dec, we are happy to host Prof. Xiao Li from CUHK (https://www.xiao-li.org/) with a talk on Convergence Guarantees for SGD with Random</description>
+    </item>
+    <item>
+      <title>I am chairing session WA67 "Challenges in the Large-scale Model Training" at INFORMS Annual Meeting 2023!</title>
+      <link>https://igormolybog.github.io/</link>
+      <guid isPermaLink="false">bd3e05f1050f45667cd91ee9acd3019e459ebf85</guid>
+      <pubDate>Sun, 01 Oct 2023 12:00:00 +0000</pubDate>
+      <description>October 2023: I am chairing session WA67 "Challenges in the Large-scale Model Training" at INFORMS Annual Meeting 2023!</description>
+    </item>
+    <item>
+      <title>I have presented a talk on the Large Language Modeling practice at the CS Department seminar of UH Manoa: [https://drive</title>
+      <link>https://drive.google.com/file/d/19H5-6PspYAjf4sgSefM0HrnjgRgj1060/view?usp=sharing</link>
+      <guid isPermaLink="false">1dfb929d573144b1d6400b71057f7a2f98bf8ded</guid>
+      <pubDate>Sun, 01 Oct 2023 12:00:00 +0000</pubDate>
+      <description>October 2023: I have presented a talk on the Large Language Modeling practice at the CS Department seminar of UH Manoa: recording (https://drive.google.com/file/d/19H5-6PspYAjf4sgSefM0HrnjgRgj1060/view?usp=sharing), slides (https://drive.google.com/file/d/1X4KBCU0DiHtQ0aJrLlYKe8509hZFilcY/view?usp=sharing)</description>
+    </item>
+    <item>
+      <title>A new paper on extending the context length of a trained RoPE transformer: [https://arxiv</title>
+      <link>https://arxiv.org/pdf/2309.16039.pdf</link>
+      <guid isPermaLink="false">1732de5d9b3f18cec429ccec59ca732a584a5c4d</guid>
+      <pubDate>Fri, 01 Sep 2023 12:00:00 +0000</pubDate>
+      <description>September 2023: A new paper on extending the context length of a trained RoPE transformer: Effective Long-Context Scaling of Foundation Models (https://arxiv.org/pdf/2309.16039.pdf)</description>
+    </item>
+    <item>
+      <title>Our paper [https://ai</title>
+      <link>https://ai.meta.com/research/publications/llama-2-open-foundation-and-fine-tuned-chat-models/</link>
+      <guid isPermaLink="false">1b01891c85833e9b1fd4871dd92092d8967d04f6</guid>
+      <pubDate>Sat, 01 Jul 2023 12:00:00 +0000</pubDate>
+      <description>July 2023: Our paper Llama 2: Open Foundation and Fine-Tuned Chat Models (https://ai.meta.com/research/publications/llama-2-open-foundation-and-fine-tuned-chat-models/) landed with a splash, making it to the top (https://news.ycombinator.com/item?id=36774627) of hackernews.</description>
+    </item>
+    <item>
+      <title>I will present the paper [https://arxiv</title>
+      <link>https://arxiv.org/abs/2304.09871</link>
+      <guid isPermaLink="false">9d63e68761ed954bec57963a2d9cab5d7dcf4a2f</guid>
+      <pubDate>Mon, 01 May 2023 12:00:00 +0000</pubDate>
+      <description>May 2023: I will present the paper A Theory on Adam Instability in Large-Scale Machine Learning (https://arxiv.org/abs/2304.09871) at the FAIR &lt;&gt; GenAI Workshop. slides (https://docs.google.com/presentation/d/1MAcgmCgx5b6zf9So42Bh-af9HvOGdBkUrJHKmJPp4IU/edit?usp=sharing)</description>
+    </item>
+    <item>
+      <title>Our paper [https://people</title>
+      <link>https://people.eecs.berkeley.edu/~sojoudi/Saddle_2023_1.pdf</link>
+      <guid isPermaLink="false">a73b2aea1f4272246d1c5eb3696c057a28b39103</guid>
+      <pubDate>Sat, 01 Apr 2023 12:00:00 +0000</pubDate>
+      <description>April 2023: Our paper Over-parametrization via Lifting for Low-rank Matrix Sensing: Conversion of Spurious Solutions to Strict Saddle Points (https://people.eecs.berkeley.edu/~sojoudi/Saddle_2023_1.pdf) got accepted at the 2023 International Conference on Machine Learning (ICML).</description>
+    </item>
+    <item>
+      <title>New paper [https://arxiv</title>
+      <link>https://arxiv.org/abs/2304.09871</link>
+      <guid isPermaLink="false">5c4babbfe1b3cf5cd8147f57e44f2a362a4f19ae</guid>
+      <pubDate>Wed, 01 Mar 2023 12:00:00 +0000</pubDate>
+      <description>March 2023: New paper A Theory on Adam Instability in Large-Scale Machine Learning (https://arxiv.org/abs/2304.09871) is accessible online.</description>
+    </item>
+    <item>
+      <title>New paper [https://people</title>
+      <link>https://people.eecs.berkeley.edu/~sojoudi/Saddle_2023_1.pdf</link>
+      <guid isPermaLink="false">626bdd5b3dce806fe06d3982015f91e0efede5ed</guid>
+      <pubDate>Sun, 01 Jan 2023 12:00:00 +0000</pubDate>
+      <description>January 2023: New paper Over-parametrization via Lifting for Low-rank Matrix Sensing: Conversion of Spurious Solutions to Strict Saddle Points (https://people.eecs.berkeley.edu/~sojoudi/Saddle_2023_1.pdf) is accessible online.</description>
+    </item>
+    <item>
+      <title>I am going to join the [https://www</title>
+      <link>https://www.ee.hawaii.edu/</link>
+      <guid isPermaLink="false">f2fffec81ee15fa4413e98ebfe717e12b226c429</guid>
+      <pubDate>Thu, 01 Dec 2022 12:00:00 +0000</pubDate>
+      <description>December 2022: I am going to join the Department of Electrical and Computer Engineering at University of Hawai'i at Manoa (https://www.ee.hawaii.edu/) as a faculty member!</description>
+    </item>
+    <item>
+      <title>I am invited to organize a session "Large-scale smooth optimization for Generative AI" at the [https://meetings</title>
+      <link>https://meetings.informs.org/wordpress/phoenix2023/</link>
+      <guid isPermaLink="false">497db301b9e380189a0014d4de2b95c3d49f87f5</guid>
+      <pubDate>Sat, 01 Oct 2022 12:00:00 +0000</pubDate>
+      <description>October 2022: I am invited to organize a session "Large-scale smooth optimization for Generative AI" at the INFORMS Annual Meeting 2023 (https://meetings.informs.org/wordpress/phoenix2023/).</description>
+    </item>
+    <item>
+      <title>I am joining [https://ai</title>
+      <link>https://ai.facebook.com/</link>
+      <guid isPermaLink="false">95aebc271f4d117da1821438e4d81d77823b85cc</guid>
+      <pubDate>Wed, 01 Jun 2022 12:00:00 +0000</pubDate>
+      <description>June 2022: I am joining Meta AI (FAIR) (https://ai.facebook.com/) as a Research Scientist specializing on large-scale optimization.</description>
+    </item>
+    <item>
+      <title>I defended my thesis and graduated with a Ph</title>
+      <link>https://igormolybog.github.io/</link>
+      <guid isPermaLink="false">57bcf744eb4492d143aeb687607ae5dbeb58c094</guid>
+      <pubDate>Sun, 01 May 2022 12:00:00 +0000</pubDate>
+      <description>May 2022: I defended my thesis and graduated with a Ph.D. in Engineering!</description>
+    </item>
+    <item>
+      <title>My Thesis [https://escholarship</title>
+      <link>https://escholarship.org/content/qt9jx9w0mh/qt9jx9w0mh.pdf</link>
+      <guid isPermaLink="false">3db3391e3093d0c6f42163e24e9f58f78c977a30</guid>
+      <pubDate>Fri, 01 Apr 2022 12:00:00 +0000</pubDate>
+      <description>April 2022: My Thesis The complexity of non-convex and conic optimization problems in data science applications (https://escholarship.org/content/qt9jx9w0mh/qt9jx9w0mh.pdf) is available online.</description>
+    </item>
+    <item>
+      <title>I will give a talk at the Department of Electrical and Computer Engineeting of University of Hawai'i at Manoa</title>
+      <link>https://docs.google.com/presentation/d/1fPviatr3hesi-hL6GkUffwp4uvJizSQSZ2fuSELAus8/edit?usp=sharing</link>
+      <guid isPermaLink="false">665225dd78e8c40c5e110343e81dbf6afc66aaf5</guid>
+      <pubDate>Tue, 01 Feb 2022 12:00:00 +0000</pubDate>
+      <description>February 2022: I will give a talk at the Department of Electrical and Computer Engineeting of University of Hawai'i at Manoa. slides (https://docs.google.com/presentation/d/1fPviatr3hesi-hL6GkUffwp4uvJizSQSZ2fuSELAus8/edit?usp=sharing)</description>
+    </item>
+    <item>
+      <title>I will give a talk "Computation-information complexity trade-off in Tensor PCA" Random Matrices and Random Landscapes seminar at Mathemat...</title>
+      <link>https://igormolybog.github.io/</link>
+      <guid isPermaLink="false">96055d5931549b1d0c9bfd0842628f8ead592b44</guid>
+      <pubDate>Wed, 01 Dec 2021 12:00:00 +0000</pubDate>
+      <description>December 2021: I will give a talk "Computation-information complexity trade-off in Tensor PCA" Random Matrices and Random Landscapes seminar at Mathematical Sciences Research Institute, Berkeley, CA. ([Rand_Mat___Land_Project_Presentation_Dec_2021.pdf slides])</description>
+    </item>
+    <item>
+      <title>I will give a talk "Topological complexity of polynomials" at the Control and Optimization seminar, IEOR Department at University of Cali...</title>
+      <link>https://igormolybog.github.io/</link>
+      <guid isPermaLink="false">3024f06b055582ce0ba9f7b2f3552bc90d8dc0e6</guid>
+      <pubDate>Mon, 01 Nov 2021 12:00:00 +0000</pubDate>
+      <description>November 2021: I will give a talk "Topological complexity of polynomials" at the Control and Optimization seminar, IEOR Department at University of California, Berkeley. ([Presentation_Spin_Glass_November_2021.pdf slides])</description>
+    </item>
+    <item>
+      <title>I am organising session "Reaching Global Optimum in Non-Convex Optimization Problems" at the INFORMS Annual Meeting 2021</title>
+      <link>https://igormolybog.github.io/</link>
+      <guid isPermaLink="false">000eea97784d06b7986742fc57102da22b1d15d8</guid>
+      <pubDate>Wed, 01 Sep 2021 12:00:00 +0000</pubDate>
+      <description>September 2021: I am organising session "Reaching Global Optimum in Non-Convex Optimization Problems" at the INFORMS Annual Meeting 2021.</description>
+    </item>
+    <item>
+      <title>I will present the paper [https://arxiv</title>
+      <link>https://arxiv.org/pdf/2006.00453</link>
+      <guid isPermaLink="false">5d3b27b0b0ae4687fc9c41a1a3521bfcf686d30a</guid>
+      <pubDate>Thu, 01 Jul 2021 12:00:00 +0000</pubDate>
+      <description>July 2021: I will present the paper When Does MAML Objective Have Benign Landscape? (https://arxiv.org/pdf/2006.00453) on the 2021 IEEE Conference on Control Technology and Applications (CCTA).</description>
+    </item>
+    <item>
+      <title>I will present the paper [https://people</title>
+      <link>https://people.eecs.berkeley.edu/~sojoudi/SRIP_21.pdf</link>
+      <guid isPermaLink="false">ca9767ea6e089ff4f1a6d7729f9063510773d5db</guid>
+      <pubDate>Sat, 01 May 2021 12:00:00 +0000</pubDate>
+      <description>May 2021: I will present the paper No spurious solutions in non-convex matrix sensing: Structure compensates for isometry (https://people.eecs.berkeley.edu/~sojoudi/SRIP_21.pdf) on the 2021 American Control Conference (ACC).</description>
+    </item>
+    <item>
+      <title>Our paper [https://people</title>
+      <link>https://people.eecs.berkeley.edu/~sojoudi/KSP_2019_1.pdf</link>
+      <guid isPermaLink="false">4f495b6dddb421756b17b053a298a05963ecabb7</guid>
+      <pubDate>Tue, 01 Dec 2020 12:00:00 +0000</pubDate>
+      <description>December 2020: Our paper Role of sparsity and structure in the optimization landscape of non-convex matrix sensing (https://people.eecs.berkeley.edu/~sojoudi/KSP_2019_1.pdf)  got accepted for publication in Mathematical Programming (https://www.springer.com/journal/10107).</description>
+    </item>
+    <item>
+      <title>Our paper [https://www</title>
+      <link>https://www.jmlr.org/papers/volume21/18-881/18-881.pdf</link>
+      <guid isPermaLink="false">b3d5c483e9121e6c688b13eea3359d6c6a09c5bb</guid>
+      <pubDate>Tue, 01 Sep 2020 12:00:00 +0000</pubDate>
+      <description>September 2020: Our paper Conic Optimization for Quadratic Regression Under Sparse Noise (https://www.jmlr.org/papers/volume21/18-881/18-881.pdf) got accepted for publication in the Journal of Machine Learning Research (https://www.jmlr.org/).</description>
+    </item>
+    <item>
+      <title>Our new paper [https://lavaei</title>
+      <link>https://lavaei.ieor.berkeley.edu/Meta_2020_1.pdf</link>
+      <guid isPermaLink="false">8967684ff6f8f8453a0bc5fa7dd1e1720a18e305</guid>
+      <pubDate>Mon, 01 Jun 2020 12:00:00 +0000</pubDate>
+      <description>June 2020: Our new paper Global convergence of MAML for LQR (https://lavaei.ieor.berkeley.edu/Meta_2020_1.pdf) is accessible online.</description>
+    </item>
+    <item>
+      <title>I gave a talk "Frontiers of Deep Learning: overview of Simon's Institute summer workshops" at the Control and Optimization seminar, IEOR...</title>
+      <link>https://igormolybog.github.io/</link>
+      <guid isPermaLink="false">9a316be3a47cf59d02b7e2b825b5c3f218aa21de</guid>
+      <pubDate>Thu, 01 Aug 2019 12:00:00 +0000</pubDate>
+      <description>August 2019: I gave a talk "Frontiers of Deep Learning: overview of Simon's Institute summer workshops" at the Control and Optimization seminar, IEOR Department at University of California, Berkeley. ([simonsTalk.pdf slides])</description>
+    </item>
+    <item>
+      <title>The paper [http://www</title>
+      <link>http://www.ieor.berkeley.edu/~lavaei/linear-SE_2019_2.pdf</link>
+      <guid isPermaLink="false">76d1cd7c13118542f933eaf6923ddd647245e2fb</guid>
+      <pubDate>Mon, 01 Jul 2019 12:00:00 +0000</pubDate>
+      <description>July 2019: The paper Towards Robust and Scalable Power System State Estimation (http://www.ieor.berkeley.edu/~lavaei/linear-SE_2019_2.pdf) to appear in Proc. 58th  IEEE Conference on Decision and Control</description>
+    </item>
+    <item>
+      <title>New paper on non-convex learning: [http://www</title>
+      <link>http://www.ieor.berkeley.edu/~lavaei/SRIP_2019_1.pdf</link>
+      <guid isPermaLink="false">3cdedf8c31235a2505a0a0602af0a8349c5283e5</guid>
+      <pubDate>Wed, 01 May 2019 12:00:00 +0000</pubDate>
+      <description>May 2019: New paper on non-convex learning: No Spurious Solutions in Non-convex Matrix Sensing: Structure Compensates for Isometry (http://www.ieor.berkeley.edu/~lavaei/SRIP_2019_1.pdf)</description>
+    </item>
+    <item>
+      <title>New paper on data analytics: [http://www</title>
+      <link>http://www.ieor.berkeley.edu/~lavaei/Conic_RQR_2018.pdf</link>
+      <guid isPermaLink="false">d16fd18b3efbd3845af2ccb0ca3a01607de33903</guid>
+      <pubDate>Tue, 01 Jan 2019 12:00:00 +0000</pubDate>
+      <description>January 2019: New paper on data analytics: Conic Optimization for Robust Quadratic Regression (http://www.ieor.berkeley.edu/~lavaei/Conic_RQR_2018.pdf)</description>
+    </item>
+    <item>
+      <title>Our paper [http://lavaei</title>
+      <link>http://lavaei.ieor.berkeley.edu/Sampling_SDP_2018.pdf</link>
+      <guid isPermaLink="false">a92dd6ecb73e83a58e06569794ddfbf9f609cd8f</guid>
+      <pubDate>Sat, 01 Dec 2018 12:00:00 +0000</pubDate>
+      <description>December 2018: Our paper On Sampling Complexity of the Semidefinite Affine Rank Feasibility Problem (http://lavaei.ieor.berkeley.edu/Sampling_SDP_2018.pdf) has been designated for oral presentation on Thirty-Third AAAI Conference on Artificial Intelligence (https://aaai.org/Conferences/AAAI-19/)</description>
+    </item>
+    <item>
+      <title>I will give a talk "Conic Optimization For Robust Quadratic Regression" at the [https://cdc2018</title>
+      <link>https://cdc2018.ieeecss.org/</link>
+      <guid isPermaLink="false">c17d61622ff050e4cc7699852c7c042307b5f701</guid>
+      <pubDate>Thu, 01 Nov 2018 12:00:00 +0000</pubDate>
+      <description>November 2018: I will give a talk "Conic Optimization For Robust Quadratic Regression" at the 57th IEEE Conference on Decision and Control (https://cdc2018.ieeecss.org/)</description>
+    </item>
+    <item>
+      <title>Our paper [http://www</title>
+      <link>http://www.ieor.berkeley.edu/~lavaei/Sampling_SDP_2018.pdf</link>
+      <guid isPermaLink="false">c7f6b4279b599f1f111fab8b038ff018f4ecb92e</guid>
+      <pubDate>Mon, 01 Oct 2018 12:00:00 +0000</pubDate>
+      <description>October 2018: Our paper On Sampling Complexity of the Semidefinite Affine Rank Feasibility Problem (http://www.ieor.berkeley.edu/~lavaei/Sampling_SDP_2018.pdf) was accepted on Thirty-Third AAAI Conference on Artificial Intelligence (https://aaai.org/Conferences/AAAI-19/)</description>
+    </item>
+    <item>
+      <title>I successfully passed Doctoral Qualifying Examination</title>
+      <link>https://igormolybog.github.io/</link>
+      <guid isPermaLink="false">51ccc3351e1a914830b98e8717da2e508b039013</guid>
+      <pubDate>Sat, 01 Sep 2018 12:00:00 +0000</pubDate>
+      <description>September 2018: I successfully passed Doctoral Qualifying Examination.</description>
+    </item>
+    <item>
+      <title>I gave a talk "Geometry of SDP relaxations for rank constrained problems" at the Power Systems Seminar for IEOR Department at University...</title>
+      <link>https://igormolybog.github.io/</link>
+      <guid isPermaLink="false">f06d78b4047c1ba5efe8ad0c34e5eba85cac15a1</guid>
+      <pubDate>Sat, 01 Sep 2018 12:00:00 +0000</pubDate>
+      <description>September 2018: I gave a talk "Geometry of SDP relaxations for rank constrained problems" at the Power Systems Seminar for IEOR Department at University of California, Berkeley.</description>
+    </item>
+    <item>
+      <title>New paper on SDP relaxations of rank-constrained problems: [http://lavaei</title>
+      <link>http://lavaei.ieor.berkeley.edu/Sampling_SDP_2018.pdf</link>
+      <guid isPermaLink="false">4d4f0483c3f253c7519e267f6a29416b6de49b67</guid>
+      <pubDate>Sat, 01 Sep 2018 12:00:00 +0000</pubDate>
+      <description>September 2018: New paper on SDP relaxations of rank-constrained problems: On Sampling Complexity of the Semidefinite Affine Rank Feasibility Problem (http://lavaei.ieor.berkeley.edu/Sampling_SDP_2018.pdf).</description>
+    </item>
+    <item>
+      <title>Our paper [http://www</title>
+      <link>http://www.ieor.berkeley.edu/~lavaei/regression_2018_1.pdf</link>
+      <guid isPermaLink="false">e2dda3d50f0a58370b8750e222a73ffc56c66e98</guid>
+      <pubDate>Sun, 01 Jul 2018 12:00:00 +0000</pubDate>
+      <description>July 2018: Our paper Conic Optimization for Robust Quadratic Regression: Deterministic Bounds and Statistical Analysis (http://www.ieor.berkeley.edu/~lavaei/regression_2018_1.pdf) to appear in IEEE Conference on Decision and Control, 2018.</description>
+    </item>
+    <item>
+      <title>I will give a talk on "Conic Optimization For Robust State Estimation: Deterministic Bounds And Statistical Analysis" at [http://meetings2</title>
+      <link>http://meetings2.informs.org/wordpress/phoenix2018/</link>
+      <guid isPermaLink="false">0e05c354149f3578f82246cf7abb26bd188f145a</guid>
+      <pubDate>Sun, 01 Jul 2018 12:00:00 +0000</pubDate>
+      <description>July 2018: I will give a talk on "Conic Optimization For Robust State Estimation: Deterministic Bounds And Statistical Analysis" at INFORMS Annual Meeting (http://meetings2.informs.org/wordpress/phoenix2018/)</description>
+    </item>
+    <item>
+      <title>I successfully passed Ph</title>
+      <link>https://igormolybog.github.io/</link>
+      <guid isPermaLink="false">139b4e0fee35b3d8e098b706d20207a2e2889b92</guid>
+      <pubDate>Tue, 01 May 2018 12:00:00 +0000</pubDate>
+      <description>May 2018: I successfully passed Ph.D. Preliminary Exam.</description>
+    </item>
+    <item>
+      <title>I gave a talk on "Conic Relaxations for State Estimation under Sparse Noise" at the Power Systems Seminar for IEOR Department at Universi...</title>
+      <link>https://igormolybog.github.io/</link>
+      <guid isPermaLink="false">790ffebe89b6fe50b7211a3e5eb2117069391e53</guid>
+      <pubDate>Sun, 01 Apr 2018 12:00:00 +0000</pubDate>
+      <description>April 2018: I gave a talk on "Conic Relaxations for State Estimation under Sparse Noise" at the Power Systems Seminar for IEOR Department at University of California, Berkeley.</description>
+    </item>
+    <item>
+      <title>New paper on robust nonlinear regression for bad data detection: [http://www</title>
+      <link>http://www.ieor.berkeley.edu/~lavaei/regression_2018_1.pdf</link>
+      <guid isPermaLink="false">e1947dc0637da5bbf364c2925a2e3055632c7b00</guid>
+      <pubDate>Thu, 01 Mar 2018 12:00:00 +0000</pubDate>
+      <description>March 2018: New paper on robust nonlinear regression for bad data detection: Conic Optimization for Robust Quadratic Regression: Deterministic Bounds and Statistical Analysis (http://www.ieor.berkeley.edu/~lavaei/regression_2018_1.pdf).</description>
+    </item>
+    <item>
+      <title>I joined the department of [http://www</title>
+      <link>http://www.ieor.berkeley.edu</link>
+      <guid isPermaLink="false">f80578f8f93f75cc4508a956026cf2c3576d9e00</guid>
+      <pubDate>Tue, 01 Aug 2017 12:00:00 +0000</pubDate>
+      <description>August 2017: I joined the department of Industrial Engineering and Operations Research (http://www.ieor.berkeley.edu) at University of California, Berkeley (http://www.berkeley.edu) as a M.Sc/PhD Scholar.</description>
+    </item>
+  </channel>
+</rss>
