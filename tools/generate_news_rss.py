@@ -73,8 +73,7 @@ def build_rss(items, base_url: str) -> str:
     lines.append("<?xml version=\"1.0\" encoding=\"UTF-8\"?>")
     lines.append("<rss version=\"2.0\">")
     lines.append("  <channel>")
-    lines.append("    <title>Igor Molybog - News</title>
-    ")
+    lines.append("    <title>Igor Molybog - News</title>")
     lines.append(f"    <link>{escape(base_url)}</link>")
     lines.append("    <description>Updates from the News section</description>")
     lines.append("    <language>en-us</language>")
