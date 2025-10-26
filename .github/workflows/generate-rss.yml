@@ -38,5 +38,5 @@ jobs:
             echo "No changes to news.xml"
             exit 0
           fi
-          git commit -m "chore(rss): update news.xml"
+          git commit -m "chore(rss): update news.xml [skip ci]"
           git push
