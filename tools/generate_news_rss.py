@@ -71,13 +71,14 @@ def build_rss(items, base_url: str) -> str:
     now_http = datetime.now(timezone.utc).strftime("%a, %d %b %Y %H:%M:%S %z")
     lines = []
     lines.append("<?xml version=\"1.0\" encoding=\"UTF-8\"?>")
-    lines.append("<rss version=\"2.0\">")
+    lines.append("<rss version=\"2.0\" xmlns:atom=\"http://www.w3.org/2005/Atom\">")
     lines.append("  <channel>")
     lines.append("    <title>Igor Molybog - News</title>")
     lines.append(f"    <link>{escape(base_url)}</link>")
     lines.append("    <description>Updates from the News section</description>")
     lines.append("    <language>en-us</language>")
     lines.append(f"    <lastBuildDate>{now_http}</lastBuildDate>")
+    lines.append("    <atom:link rel=\"self\" type=\"application/rss+xml\" href=\"https://igormolybog.github.io/news.xml\" />")
     for item in items:
         title = escape(item["title"]) if item["title"] else "Update"
         link = escape(item["link"]) if item["link"] else escape(base_url)
