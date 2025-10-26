@@ -47,7 +47,18 @@ that are robust to noise and highly scalable with the amount of available comput
 
 == News
 
-Subscribe: [https://igormolybog.github.io/news.xml RSS]
+~~~
+{}{raw}
+<div style="float:right; margin-top:-40px;">
+<form action="https://api.follow.it/subscription-form/aDF6SzJBeUhxbDlxR2JibHpLd3RnVmhEbXB6cWxQckNTeGtKTzdmODlZak8zb1Q5VDVtL3N5TmtXVVVJS2x3MHRuRFExMWtPdjA0akhRcnVxdzJmOWZxSkdKdURCbmdRZlg4TUllditlL2ZDdU1oR1JTUUxjRzRaQ3ZiUlUwYmV8SzNmNW5QOGVLeUhpWEpEbldDbWxZTzJpeE9lQUI1dUx3b3hybWJCUGdZWT0=/8" method="post" target="_blank" style="display:flex; gap:6px; align-items:center;">
+<label for="followit-email" style="font-size:90%;">Subscribe:</label>
+<input type="email" id="followit-email" name="email" placeholder="you@example.com" required style="padding:4px; font-size:90%; width:160px;" />
+<button type="submit" style="padding:4px 8px; font-size:90%;">Email</button>
+<a href="https://igormolybog.github.io/news.xml" style="margin-left:6px; font-size:90%;">RSS</a>
+</form>
+</div>
+<div style="clear:both;"></div>
+~~~
 
 - November 2025: The pre-print for our new paper [https://arxiv.org/abs/2510.19864 SODBench: A Large Language Model Approach to Documenting Spreadsheet Operations] led by [https://www.linkedin.com/in/amila-indika/ Amila Indika] is available online.
 - October 2025: At 13:30 on 23 of October, HawAII is happy to host [https://baulab.info/ David Bau] from Northeastern University in Boston who will deliver a talk on Mechanistic Interpretability of large neural networks. Please join us in Holmes Hall 411!
