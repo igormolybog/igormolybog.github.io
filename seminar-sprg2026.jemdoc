@@ -1,0 +1,22 @@
+# jemdoc: menu{MENU.jemdoc}{seminar-sprg2026.html}, nofooter  
+=ECE Large-Scale AI seminar
+
+- [https://docs.google.com/document/d/1di0NDyc6vTItR4dZVuERc2kP1JaJc2R30wtFswMuaP0/edit?usp=sharing ECE605 Course Syllabus] (for the roles description only)
+- [https://discord.gg/Sf6eET3WEJ Discord forum]
+
+== Class schedule
+- Time TBD, Place TBD ([https://hawaii.zoom.us/j/84384222329 zoom link]; password: ece)
+
+== Core materials:
+- [https://docs.google.com/spreadsheets/d/1pPRu_hvViryFla6vpNahhECW3ssH1ICUG8qeBvkCMXM/edit?usp=sharing Seminar schedule]
+- [https://drive.google.com/drive/folders/14eFr_LAQhOB467baLqtXWPmiP2KYgcb5?usp=sharing Paper Seminars Materials folder]
+
+
+== Additional materials
+
+- [https://igormolybog.github.io/ece405_sprg2026.html ECE405 course]
+- [https://igormolybog.github.io/ece605_fall2025.html ECE605 course]
+- Koa cluster [https://docs.google.com/document/d/1h00x2pAjIjMDJ-1RBeHQaTvnfxUhM_lAVNbskEc9f7A/edit?usp=sharing onboarding guide]
+- Natural Language Processing (NLP) [https://web.stanford.edu/~jurafsky/slp3/ @ Standord textbook]
+- [https://huggingface.co/papers Huggingface daily papers]
+- [https://github.com/elicit/machine-learning-list?tab=readme-ov-file Reading list]
