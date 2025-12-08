@@ -5,8 +5,15 @@
     <link>https://igormolybog.github.io/</link>
     <description>Updates from the News section</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 07 Dec 2025 15:38:49 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 08 Dec 2025 20:27:06 +0000</lastBuildDate>
     <atom:link rel="self" type="application/rss+xml" href="https://igormolybog.github.io/news.xml" />
+    <item>
+      <title>Congratulations to [https://www</title>
+      <link>https://www.linkedin.com/in/yizhuwen/</link>
+      <guid isPermaLink="false">9dbf426fa411f836b75aeca7117f8ae37292907d</guid>
+      <pubDate>Mon, 01 Dec 2025 12:00:00 +0000</pubDate>
+      <description>December 2025: Congratulations to Yizhu Wen (https://www.linkedin.com/in/yizhuwen/) who led our recent effort on studying defense strategies against adversarial attacks on LLM RAG systems. His poster "Anti-Knowledge Corruption: Document Augmentation Defense" has been accepted at Annual Computer Security Applications Conference (ACSAC) 2025 and will be presented on Thursday, Dec 11, at 18:00-19:30 in Alohilani I room of the Hawai'i Convention Center.</description>
+    </item>
     <item>
       <title>I am attending NeurIPS 2025 on Dec 4-7! Please come attend our [https://dcvlr-neurips</title>
       <link>https://dcvlr-neurips.github.io/</link>
