@@ -58,6 +58,8 @@ that are robust to noise and highly scalable with the amount of available comput
 <div style="clear:both;"></div>
 ~~~
 
+- January 2026: A new team is being assembled to participate in an upcoming [https://www.intrinsic.ai/events/ai-for-industry-challenge AI for industry challenge]. We are looking for collaborators to join us in this effort! 
+- January 2026: A new paper on [https://arxiv.org/abs/2601.10922 What Matters in Data Curation for Multimodal Reasoning? Insights from the DCVLR Challenge], describing our approach to ballancing difficulty and diversity in sampling high-quality supervised learning datasets for multimodal models.
 - December 2025: Congratulations to [https://www.linkedin.com/in/yizhuwen/ Yizhu Wen] who led our recent effort on studying defense strategies against adversarial attacks on LLM RAG systems. His poster "Anti-Knowledge Corruption: Document Augmentation Defense" has been accepted at Annual Computer Security Applications Conference (ACSAC) 2025 and will be presented on Thursday, Dec 11, at 18:00-19:30 in Alohilani I room of the Hawai'i Convention Center.
 - December 2025: I am attending NeurIPS 2025 on Dec 4-7! Please come attend our [https://dcvlr-neurips.github.io/ DCVLR winners presentation] in San Diego Convention Center, Upper Level Ballroom 6DE at 11:15 AM - 2:00 PM PT on December 6, 2025.
 - December 2025: Please sign up to participate in the HawAII reading seminar in the Spring 2026, aimed to keep up with the research trends when ECE 605 is not offered. ECE graduate students can recieve seminar credits for their participation. To sign up, please join [https://discord.gg/Sf6eET3WEJ Discord forum] and DM Igor Molybog.
