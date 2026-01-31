@@ -58,6 +58,7 @@ that are robust to noise and highly scalable with the amount of available comput
 <div style="clear:both;"></div>
 ~~~
 
+- February 2026: We release [https://arxiv.org/abs/2601.19099 m2sv: A Scalable Benchmark for Map-to-Street-View Spatial Reasoning]. It exposes the gaps in reasoning of frontier VLMs that will need to be closed before the generic AI can be deployed for safe spacial localizaiton in real robots.  
 - January 2026: A new team is being assembled to participate in an upcoming [https://www.intrinsic.ai/events/ai-for-industry-challenge AI for industry challenge]. We are looking for collaborators to join us in this effort! 
 - January 2026: A new paper on [https://arxiv.org/abs/2601.10922 What Matters in Data Curation for Multimodal Reasoning? Insights from the DCVLR Challenge], describing our approach to ballancing difficulty and diversity in sampling high-quality supervised learning datasets for multimodal models.
 - December 2025: Congratulations to [https://www.linkedin.com/in/yizhuwen/ Yizhu Wen] who led our recent effort on studying defense strategies against adversarial attacks on LLM RAG systems. His poster "Anti-Knowledge Corruption: Document Augmentation Defense" has been accepted at Annual Computer Security Applications Conference (ACSAC) 2025 and will be presented on Thursday, Dec 11, at 18:00-19:30 in Alohilani I room of the Hawai'i Convention Center.
