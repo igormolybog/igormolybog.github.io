@@ -5,8 +5,15 @@
     <link>https://igormolybog.github.io/</link>
     <description>Updates from the News section</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 21 Jan 2026 03:16:34 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 31 Jan 2026 23:18:53 +0000</lastBuildDate>
     <atom:link rel="self" type="application/rss+xml" href="https://igormolybog.github.io/news.xml" />
+    <item>
+      <title>We release [https://arxiv</title>
+      <link>https://arxiv.org/abs/2601.19099</link>
+      <guid isPermaLink="false">6fa3f5c51dac5fda56139008738d157aa5adce92</guid>
+      <pubDate>Sun, 01 Feb 2026 12:00:00 +0000</pubDate>
+      <description>February 2026: We release m2sv: A Scalable Benchmark for Map-to-Street-View Spatial Reasoning (https://arxiv.org/abs/2601.19099). It exposes the gaps in reasoning of frontier VLMs that will need to be closed before the generic AI can be deployed for safe spacial localizaiton in real robots.</description>
+    </item>
     <item>
       <title>A new team is being assembled to participate in an upcoming [https://www</title>
       <link>https://www.intrinsic.ai/events/ai-for-industry-challenge</link>
