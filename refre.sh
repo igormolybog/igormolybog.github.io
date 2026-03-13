@@ -1,1 +1,1 @@
-for FILE in *.jemdoc; do python jemdoc.py $FILE; done
+for FILE in *.jemdoc; do uv run python jemdoc.py $FILE; done

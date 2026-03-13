@@ -19,13 +19,14 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
+      - name: Set up uv
+        uses: astral-sh/setup-uv@v5
+
       - name: Set up Python
-        uses: actions/setup-python@v5
-        with:
-          python-version: "3.x"
+        run: uv python install
 
       - name: Generate RSS
-        run: python tools/generate_news_rss.py
+        run: uv run python tools/generate_news_rss.py
 
       - name: Commit and push news.xml if changed
         run: |
