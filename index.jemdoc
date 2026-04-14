@@ -58,6 +58,7 @@ that are robust to noise and highly scalable with the amount of available comput
 <div style="clear:both;"></div>
 ~~~
 
+- April 2026: I am planning to attend the [https://emwhawaii.com/ East Meets West] conference on April 8-9. Please let me know if you'd like to meet there!
 - March 2026: [https://www.linkedin.com/in/kaylamarietorres/ Kayla-Marie Torres] is presenting [https://alu.institute/ Alu] at the [https://shepherdresearchlab.org/event/collaborative-workshop-with-google/ UH <> Google workshop] on March 25 at 12:15-13:00. Come hear about our latest developments!
 - March 2026: Our new work [https://arxiv.org/pdf/2603.11053 Speculative Decoding Scaling Laws (SDSL): Throughput Optimization Made Simple], connecting the performance of speculative decoding algorithm to the perplexity of draft and target language models, is available online.
 - February 2026: We release [https://arxiv.org/abs/2601.19099 m2sv: A Scalable Benchmark for Map-to-Street-View Spatial Reasoning]. It exposes the gaps in reasoning of frontier VLMs that will need to be closed before the generic AI can be deployed for safe spacial localizaiton in real robots.  
@@ -139,3 +140,13 @@ Reshuffling. Please join us at HH 386 at 11 am! ([https://drive.google.com/file/
 - April 2018: I gave a talk on "Conic Relaxations for State Estimation under Sparse Noise" at the Power Systems Seminar for IEOR Department at University of California, Berkeley.
 - March 2018: New paper on robust nonlinear regression for bad data detection: [http://www.ieor.berkeley.edu/~lavaei/regression_2018_1.pdf Conic Optimization for Robust Quadratic Regression: Deterministic Bounds and Statistical Analysis].
 - August 2017: I joined the department of [http://www.ieor.berkeley.edu Industrial Engineering and Operations Research] at [http://www.berkeley.edu University of California, Berkeley] as a M.Sc/PhD Scholar.
+
+== Share this page
+
+~~~
+{}{raw}
+<div style="text-align:center; margin-top:1.5em;">
+<p style="margin-bottom:0.75em;">Scan this QR code to open my homepage on your phone.</p>
+<img src="qr_home.png" width="296" height="294" alt="QR code for this homepage" />
+</div>
+~~~
