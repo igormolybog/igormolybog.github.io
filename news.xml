@@ -5,8 +5,15 @@
     <link>https://igormolybog.github.io/</link>
     <description>Updates from the News section</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 14 Apr 2026 05:39:50 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 16 Apr 2026 23:14:55 +0000</lastBuildDate>
     <atom:link rel="self" type="application/rss+xml" href="https://igormolybog.github.io/news.xml" />
+    <item>
+      <title>April 28, 2026, Room 401, UH Cancer Center — I will give a talk on our group's work for the [https://virtualcellchallenge</title>
+      <link>https://virtualcellchallenge.org/</link>
+      <guid isPermaLink="false">9e1ae153b92e2bb4221424b3f503b136ae0e1b62</guid>
+      <pubDate>Wed, 01 Apr 2026 12:00:00 +0000</pubDate>
+      <description>April 2026: April 28, 2026, Room 401, UH Cancer Center — I will give a talk on our group's work for the Virtual Cell Challenge (https://virtualcellchallenge.org/) and on recent progress toward foundation models at the cellular scale. Please reach out if you would like to be added to the virtual or in-person attendee list.</description>
+    </item>
     <item>
       <title>I am planning to attend the [https://emwhawaii</title>
       <link>https://emwhawaii.com/</link>
@@ -24,16 +31,16 @@
     <item>
       <title>Our new work [https://arxiv</title>
       <link>https://arxiv.org/pdf/2603.11053</link>
-      <guid isPermaLink="false">edbcfec02cb1fefc7cd78bbb18afab1ea12422eb</guid>
+      <guid isPermaLink="false">81c345a15d0b942b26333690b1aa1354ea479ffb</guid>
       <pubDate>Sun, 01 Mar 2026 12:00:00 +0000</pubDate>
-      <description>March 2026: Our new work Speculative Decoding Scaling Laws (SDSL): Throughput Optimization Made Simple (https://arxiv.org/pdf/2603.11053), connecting the performance of speculative decoding algorithm to the perplexity of draft and target language models, is available online.</description>
+      <description>March 2026: Our new work Speculative Decoding Scaling Laws (SDSL): Throughput Optimization Made Simple (https://arxiv.org/pdf/2603.11053), connecting the performance of speculative decoding algorithms to the perplexity of draft and target language models, is available online.</description>
     </item>
     <item>
       <title>We release [https://arxiv</title>
       <link>https://arxiv.org/abs/2601.19099</link>
-      <guid isPermaLink="false">6fa3f5c51dac5fda56139008738d157aa5adce92</guid>
+      <guid isPermaLink="false">389aab58554e0da15d435885faf18955b33f66f3</guid>
       <pubDate>Sun, 01 Feb 2026 12:00:00 +0000</pubDate>
-      <description>February 2026: We release m2sv: A Scalable Benchmark for Map-to-Street-View Spatial Reasoning (https://arxiv.org/abs/2601.19099). It exposes the gaps in reasoning of frontier VLMs that will need to be closed before the generic AI can be deployed for safe spacial localizaiton in real robots.</description>
+      <description>February 2026: We release m2sv: A Scalable Benchmark for Map-to-Street-View Spatial Reasoning (https://arxiv.org/abs/2601.19099). It exposes the gaps in reasoning of frontier VLMs that will need to be closed before the generic AI can be deployed for safe spatial localization in real robots.</description>
     </item>
     <item>
       <title>A new team is being assembled to participate in an upcoming [https://www</title>
@@ -45,9 +52,9 @@
     <item>
       <title>A new paper on [https://arxiv</title>
       <link>https://arxiv.org/abs/2601.10922</link>
-      <guid isPermaLink="false">fe380dc43d0cd9cbeeb3c164179a71baae5268f9</guid>
+      <guid isPermaLink="false">ba11cd0209defcb1d93d7750b6c0947385cb3b06</guid>
       <pubDate>Thu, 01 Jan 2026 12:00:00 +0000</pubDate>
-      <description>January 2026: A new paper on What Matters in Data Curation for Multimodal Reasoning? Insights from the DCVLR Challenge (https://arxiv.org/abs/2601.10922), describing our approach to ballancing difficulty and diversity in sampling high-quality supervised learning datasets for multimodal models.</description>
+      <description>January 2026: A new paper on What Matters in Data Curation for Multimodal Reasoning? Insights from the DCVLR Challenge (https://arxiv.org/abs/2601.10922), describing our approach to balancing difficulty and diversity in sampling high-quality supervised learning datasets for multimodal models.</description>
     </item>
     <item>
       <title>Congratulations to [https://www</title>
@@ -66,9 +73,9 @@
     <item>
       <title>Please sign up to participate in the HawAII reading seminar in the Spring 2026, aimed to keep up with the research trends when ECE 605 is...</title>
       <link>https://discord.gg/Sf6eET3WEJ</link>
-      <guid isPermaLink="false">52d14ea7a982ef61d2215d6a3fb3135c88174a6f</guid>
+      <guid isPermaLink="false">f64280e7590f68453f727a74a5f1cabc4e23a1ea</guid>
       <pubDate>Mon, 01 Dec 2025 12:00:00 +0000</pubDate>
-      <description>December 2025: Please sign up to participate in the HawAII reading seminar in the Spring 2026, aimed to keep up with the research trends when ECE 605 is not offered. ECE graduate students can recieve seminar credits for their participation. To sign up, please join Discord forum (https://discord.gg/Sf6eET3WEJ) and DM Igor Molybog.</description>
+      <description>December 2025: Please sign up to participate in the HawAII reading seminar in the Spring 2026, aimed to keep up with the research trends when ECE 605 is not offered. ECE graduate students can receive seminar credits for their participation. To sign up, please join Discord forum (https://discord.gg/Sf6eET3WEJ) and DM Igor Molybog.</description>
     </item>
     <item>
       <title>HawAII is happy to host [https://www</title>
@@ -80,9 +87,9 @@
     <item>
       <title>Congratulations to [https://www</title>
       <link>https://www.linkedin.com/in/yosubshin/</link>
-      <guid isPermaLink="false">473beee868daf3f1d0a00e839abf09d4c3b39687</guid>
+      <guid isPermaLink="false">9315e78576645f6e9413453da23953aba0af0243</guid>
       <pubDate>Sat, 01 Nov 2025 12:00:00 +0000</pubDate>
-      <description>November 2025: Congratulations to Yosub Shin (https://www.linkedin.com/in/yosubshin/), Michael Buriek (https://www.linkedin.com/in/michaelburiek/), Boris Sobolev (https://www.linkedin.com/in/borissobolev), Pavel Bushuyeu (https://www.linkedin.com/in/bushuyeu), Vikas Kumar (https://www.linkedin.com/in/vkrahul77), [www.linkedin.com/in/haoyang-xu-b76024391 Haoyang Xu] and Samuel Watson (https://www.linkedin.com/in/swatson71432) for winning the First Place at the DCVLR NeurIPS 2025 (https://dcvlr-neurips.github.io/) challenge with their class project for ECE 605.</description>
+      <description>November 2025: Congratulations to Yosub Shin (https://www.linkedin.com/in/yosubshin/), Michael Buriek (https://www.linkedin.com/in/michaelburiek/), Boris Sobolev (https://www.linkedin.com/in/borissobolev), Pavel Bushuyeu (https://www.linkedin.com/in/bushuyeu), Vikas Kumar (https://www.linkedin.com/in/vkrahul77), Haoyang Xu (https://www.linkedin.com/in/haoyang-xu-b76024391) and Samuel Watson (https://www.linkedin.com/in/swatson71432) for winning the First Place at the DCVLR NeurIPS 2025 (https://dcvlr-neurips.github.io/) challenge with their class project for ECE 605.</description>
     </item>
     <item>
       <title>The pre-print for our new paper [https://arxiv</title>
@@ -136,9 +143,9 @@
     <item>
       <title>Our paper [https://arxiv</title>
       <link>https://arxiv.org/abs/2409.17169</link>
-      <guid isPermaLink="false">e59f5b51ee73bf9dbad36fff8754ef8f6a9bc8d5</guid>
+      <guid isPermaLink="false">f6db7f2eb397d7a3168e1b32bf0e9b6cc1bd2ae2</guid>
       <pubDate>Sun, 01 Jun 2025 12:00:00 +0000</pubDate>
-      <description>June 2025 Our paper REAL: Response Embedding-based Alignment for LLMs (https://arxiv.org/abs/2409.17169) will be presented at IJCAI2025 workshop on Causal Learning for Recommendation Systems. (https://ijcai2025-workshop.github.io/causal-learning-recsys/)</description>
+      <description>June 2025: Our paper REAL: Response Embedding-based Alignment for LLMs (https://arxiv.org/abs/2409.17169) will be presented at IJCAI2025 workshop on Causal Learning for Recommendation Systems. (https://ijcai2025-workshop.github.io/causal-learning-recsys/)</description>
     </item>
     <item>
       <title>We are releasing a [https://www</title>
@@ -157,9 +164,9 @@
     <item>
       <title>A new permanent graduate-level course [https://igormolybog</title>
       <link>https://igormolybog.github.io/ece605_fall2025.html</link>
-      <guid isPermaLink="false">a3d5ef699009cbe0cb4fd1fae423689d5f4c5009</guid>
+      <guid isPermaLink="false">0c8ad1d12fe899af3eda33a626e39a8d04faaeb2</guid>
       <pubDate>Tue, 01 Apr 2025 12:00:00 +0000</pubDate>
-      <description>April 2025: A new permanent graduate-level course ECE 605 (https://igormolybog.github.io/ece605_fall2025.html) on large-scale AI development and deployment will be taught in Fall 2025. It will include a series of paper-reading seminars where we will go over the most pressing technincal engineering challenges in the field and approaches to their solution.</description>
+      <description>April 2025: A new permanent graduate-level course ECE 605 (https://igormolybog.github.io/ece605_fall2025.html) on large-scale AI development and deployment will be taught in Fall 2025. It will include a series of paper-reading seminars where we will go over the most pressing technical engineering challenges in the field and approaches to their solution.</description>
     </item>
     <item>
       <title>[https://www</title>
@@ -255,16 +262,16 @@
     <item>
       <title>We are thrilled to announce an upcoming collaboration with [https://epochai</title>
       <link>https://epochai.org/</link>
-      <guid isPermaLink="false">abb928cfa1d751843acc077e9dce9689b4277f32</guid>
+      <guid isPermaLink="false">865b94bbc73a52305b83a80d60d00cede99b26ef</guid>
       <pubDate>Fri, 01 Mar 2024 12:00:00 +0000</pubDate>
-      <description>March 2024: We are thrilled to announce an upcoming collaboration with Epoch AI (https://epochai.org/) on the technical and economical aspects of scaling Artificial Intelligence systems.</description>
+      <description>March 2024: We are thrilled to announce an upcoming collaboration with Epoch AI (https://epochai.org/) on the technical and economic aspects of scaling Artificial Intelligence systems.</description>
     </item>
     <item>
       <title>At 4 PM on 24 Apr, HawAII is happy to host [https://a2c2</title>
       <link>https://a2c2.org/contact/daniel-abramovitch</link>
-      <guid isPermaLink="false">c3053817ce6e0b38bbf120c62b9bc6b79d3b8af8</guid>
+      <guid isPermaLink="false">6556fc1516005fcac083549cf0bfb5cf895328a4</guid>
       <pubDate>Fri, 01 Mar 2024 12:00:00 +0000</pubDate>
-      <description>March 2024: At 4 PM on 24 Apr, HawAII is happy to host Daniel Abramovitch (https://a2c2.org/contact/daniel-abramovitch) (Agilent Labs), Richard Braatz (https://a2c2.org/contact/richard-d-braatz) (MIT), and Kam Leang (https://www.mech.utah.edu/directory/faculty/kam-k-leang/) (U. Utah) in Webster Hall 203 with a talk on automatic control! zoom link (https://hawaii.zoom.us/j/91862139572); recording (https://drive.google.com/file/d/1zW5l9vWfwXvPXQnwkuZOP58VvyW6BbSo/view?usp=sharing); .</description>
+      <description>March 2024: At 4 PM on 24 Apr, HawAII is happy to host Daniel Abramovitch (https://a2c2.org/contact/daniel-abramovitch) (Agilent Labs), Richard Braatz (https://a2c2.org/contact/richard-d-braatz) (MIT), and Kam Leang (https://www.mech.utah.edu/directory/faculty/kam-k-leang/) (U. Utah) in Webster Hall 203 with a talk on automatic control! zoom link (https://hawaii.zoom.us/j/91862139572); recording (https://drive.google.com/file/d/1zW5l9vWfwXvPXQnwkuZOP58VvyW6BbSo/view?usp=sharing).</description>
     </item>
     <item>
       <title>Our research group has been awarded compute resources by the [https://cloud</title>
@@ -381,9 +388,9 @@
     <item>
       <title>I am joining [https://ai</title>
       <link>https://ai.facebook.com/</link>
-      <guid isPermaLink="false">95aebc271f4d117da1821438e4d81d77823b85cc</guid>
+      <guid isPermaLink="false">49cab96ef8fd06d951b24faaed88aceabfc8cc66</guid>
       <pubDate>Wed, 01 Jun 2022 12:00:00 +0000</pubDate>
-      <description>June 2022: I am joining Meta AI (FAIR) (https://ai.facebook.com/) as a Research Scientist specializing on large-scale optimization.</description>
+      <description>June 2022: I am joining Meta AI (FAIR) (https://ai.facebook.com/) as a Research Scientist specializing in large-scale optimization.</description>
     </item>
     <item>
       <title>I defended my thesis and graduated with a Ph</title>
@@ -400,11 +407,11 @@
       <description>April 2022: My Thesis The complexity of non-convex and conic optimization problems in data science applications (https://escholarship.org/content/qt9jx9w0mh/qt9jx9w0mh.pdf) is available online.</description>
     </item>
     <item>
-      <title>I will give a talk at the Department of Electrical and Computer Engineeting of University of Hawai'i at Manoa</title>
+      <title>I will give a talk at the Department of Electrical and Computer Engineering of University of Hawai'i at Manoa</title>
       <link>https://docs.google.com/presentation/d/1fPviatr3hesi-hL6GkUffwp4uvJizSQSZ2fuSELAus8/edit?usp=sharing</link>
-      <guid isPermaLink="false">665225dd78e8c40c5e110343e81dbf6afc66aaf5</guid>
+      <guid isPermaLink="false">217cc22373bd30be43e00fe8809a6bb9be3d6289</guid>
       <pubDate>Tue, 01 Feb 2022 12:00:00 +0000</pubDate>
-      <description>February 2022: I will give a talk at the Department of Electrical and Computer Engineeting of University of Hawai'i at Manoa. slides (https://docs.google.com/presentation/d/1fPviatr3hesi-hL6GkUffwp4uvJizSQSZ2fuSELAus8/edit?usp=sharing)</description>
+      <description>February 2022: I will give a talk at the Department of Electrical and Computer Engineering of University of Hawai'i at Manoa. slides (https://docs.google.com/presentation/d/1fPviatr3hesi-hL6GkUffwp4uvJizSQSZ2fuSELAus8/edit?usp=sharing)</description>
     </item>
     <item>
       <title>I will give a talk "Computation-information complexity trade-off in Tensor PCA" Random Matrices and Random Landscapes seminar at Mathemat...</title>
