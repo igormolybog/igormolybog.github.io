@@ -4,9 +4,47 @@
 
 - [https://discord.gg/9kf349WgzU Discord server]
 
-Embodied Foundation Models for Robotics is a new Vertically Integrated Project focused on leveraging foundation models to control industrial and consumer robots across diverse physical embodiments. The project will study how vision-language-action models, multimodal policies, and structured embodiment representations can enable rapid adaptation across robotic hands, wheeled platforms, quadrupeds, humanoids, marine robots, and aerial vehicles. Students will investigate how a shared model can reason over different sensors, actuators, kinematic structures, and task constraints while remaining robust enough for real-world deployment.
+Embodied Foundation Models for Robotics is a Vertically Integrated Project focused on using foundation models to control robots across many physical forms, including robotic hands, wheeled platforms, quadrupeds, humanoids, marine robots, and aerial vehicles. The project explores how vision-language-action models, multimodal policies, and embodiment-aware representations can help robots transfer skills across different sensors, actuators, body structures, and task environments.
 
-The VIP will target practical automation tasks spanning industrial, service, and household settings, including patrolling, inspection, packaging, assembly, clothing manipulation, and kitchen operations. Students will contribute to simulation, teleoperation, data collection, policy learning, evaluation, and deployment on physical platforms. The long-term goal is to build a student-driven research pipeline for general-purpose robotic autonomy: systems that can transfer skills across bodies and environments with minimal task-specific engineering.
+== Goals
+- Develop general-purpose robot policies that transfer across platforms and tasks.
+- Represent robot embodiments in terms of sensors, actuators, kinematics, and constraints.
+- Enable rapid adaptation to new robots and environments with limited task-specific engineering.
+- Build a reusable research pipeline for data collection, training, evaluation, and deployment.
+
+== Methods
+
+Students will work on:
+
+- /Data collection/: teleoperation, simulation, classical learned and scripted controllers, physical robot trials, and human demonstrations.
+- /Model training/: imitation learning, reinforcement learning, offline learning, vision-language-action model fine-tuning, and sim-to-real transfer.
+- /Embodiment modeling/: conditioning policies on robot morphology, action spaces, sensors, and task constraints.
+- /Deployment/: testing policies in simulation and on available physical robots.
+
+== Tasks and Robot Platforms
+
+- /Robotic hands and arms/: grasping, assembly, packaging, clothing manipulation
+- /Wheeled robots/: patrolling, delivery, navigation, inspection
+- /Quadrupeds/: rough-terrain navigation, surveillance, industrial inspection
+- /Humanoids/: household assistance, whole-body manipulation
+- /Marine robots/: monitoring, sampling, underwater inspection, cleaning, repairs
+- /Aerial vehicles/: mapping, visual inspection, search, monitoring
+
+== Metrics
+
+Progress will be measured by:
+
+- Task success rate
+- Completion time
+- Generalization to new robots, objects, and environments
+- Amount of data needed for adaptation
+- Robustness to noise and disturbances
+- Safety, collisions, and constraint violations
+- Real-world reliability and repeatability
+
+== Expected Outcomes
+
+The project will produce reusable datasets, simulation environments, trained robot policies, evaluation benchmarks, deployment tools, technical reports, and research publications.
 
 == Join
 
