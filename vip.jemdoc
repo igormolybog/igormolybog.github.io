@@ -3,6 +3,7 @@
 /Vertically Integrated Project/
 
 - [https://discord.gg/9kf349WgzU Discord server]
+- [https://ece.hawaii.edu/student/undergrad/project/detail/2/91 ECE department VIP listing]
 
 Embodied Foundation Models for Robotics is a Vertically Integrated Project focused on using foundation models to control robots across many physical forms, including robotic hands, wheeled platforms, quadrupeds, humanoids, marine robots, and aerial vehicles. The project explores how vision-language-action models, multimodal policies, and embodiment-aware representations can help robots transfer skills across different sensors, actuators, body structures, and task environments.
 
@@ -45,6 +46,26 @@ Progress will be measured by:
 == Expected Outcomes
 
 The project will produce reusable datasets, simulation environments, trained robot policies, evaluation benchmarks, deployment tools, technical reports, and research publications.
+
+== Prerequisites by Student Level
+
+=== Sophomores
+- Comfortable programming in Python; basic Git/Linux experience is helpful.
+- Some coursework in linear algebra, statistics, data structures, ML, AI, robotics, or controls.
+- Interest in robotics, machine learning, computer vision, or autonomous systems.
+- Expected role: data collection, simulation setup, annotation, benchmarking, and software support.
+
+=== Juniors
+- Solid Python skills; exposure to C\+\+, ROS/ROS 2, embedded systems, or robotics software is helpful.
+- Coursework or project experience in ML, robotics, controls, computer vision, AI, optimization, or signals.
+- Some familiarity with PyTorch, simulation, perception, planning, imitation learning, reinforcement learning, or robot experiments.
+- Expected role: model training, embodiment modeling, simulation, robot testing, and evaluation.
+
+=== Seniors
+- Strong interest or experience in robotics, ML, controls, computer vision, or autonomous systems.
+- Prior project, research, internship, or advanced coursework related to robot learning, perception, planning, control, or multimodal AI.
+- Ability to work independently, read technical papers, define experiments, and support reusable code.
+- Expected role: technical leadership, research implementation, deployment, benchmarking, and mentoring.
 
 == Join
 
