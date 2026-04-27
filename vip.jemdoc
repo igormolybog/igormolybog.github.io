@@ -1,0 +1,13 @@
+# jemdoc: menu{MENU.jemdoc}{vip.html}, nofooter  
+=Foundational Models for Robotics (HawAII)
+/Vertically Integrated Project/
+
+- [https://discord.gg/9kf349WgzU Discord server]
+
+Embodied Foundation Models for Robotics is a new Vertically Integrated Project focused on leveraging foundation models to control industrial and consumer robots across diverse physical embodiments. The project will study how vision-language-action models, multimodal policies, and structured embodiment representations can enable rapid adaptation across robotic hands, wheeled platforms, quadrupeds, humanoids, marine robots, and aerial vehicles. Students will investigate how a shared model can reason over different sensors, actuators, kinematic structures, and task constraints while remaining robust enough for real-world deployment.
+
+The VIP will target practical automation tasks spanning industrial, service, and household settings, including patrolling, inspection, packaging, assembly, clothing manipulation, and kitchen operations. Students will contribute to simulation, teleoperation, data collection, policy learning, evaluation, and deployment on physical platforms. The long-term goal is to build a student-driven research pipeline for general-purpose robotic autonomy: systems that can transfer skills across bodies and environments with minimal task-specific engineering.
+
+== Join
+
+To sign up, email [mailto:molybog@hawaii.edu molybog@hawaii.edu].
