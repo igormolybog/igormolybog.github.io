@@ -1,0 +1,32 @@
+# jemdoc: menu{MENU.jemdoc}{ece605_fall2026.html}, nofooter  
+=ECE605 Large-Scale AI
+
+- [https://docs.google.com/document/d/1menDJYIUn4Y3NoI8EkHukTbQ5iGsq_n5iBGEOAMX6AU/edit?usp=sharing Course Syllabus]
+- [https://drive.google.com/drive/folders/1ZTzzS5fJ686y13mtvEj0wEtoPsdAxKHI?usp=drive_link Recordings (need to request access)]
+- [https://drive.google.com/drive/folders/12gwb4w0rUKqw70BU_6Hi9gHvISBJmdnY?usp=sharing Lecture slides]
+- [https://discord.gg/cvRsG6mqaM Discord forum]
+- [https://docs.google.com/forms/d/e/1FAIpQLScM9HypTqntQSK-NxOu_M5lIeTh6UG8ER9N6UM8jD2_XgoAlA/viewform?usp=publish-editor Project submission form]
+
+== Class schedule
+- Monday and Wednesday, 10:30-11:45, Moore Hall 203 ([https://hawaii.zoom.us/j/84384222329 zoom link]; password: ece)
+- Office hours: by [https://calendar.app.google/mLp9CvS96utpEjDK6 appointment] or after class
+
+== Core materials:
+- Use the [https://docs.google.com/spreadsheets/d/1ZX87ISNGc01UB_djdRcY4-Hv6fDj6qizkhnwX5KOAY0/edit?usp=sharing Seminar and Project schedule] to:
+    -- pick your project team
+    -- indicate interest in reporting on a paper
+    -- suggest a paper for review
+    -- find out the schedule of papers to be reviewed
+- Upload the seminar materials (slides, code, links to Notion, etc) presented during the paper seminar into the corresponding subfolders of the [https://drive.google.com/drive/folders/1GArIkJzJ1Phtca5Qg1_sDW1n2mOj5JwT?usp=sharing Paper Seminars Materials folder]
+- Final project topic: TBD (most likely: multimodal foundational modeling for robotics from https://neurips.cc/Conferences/2026/CallForCompetitions)
+
+
+== Additional materials
+
+- [https://igormolybog.github.io/ece405_sprg2026.html "Pre-requisite" undergrad course]
+- Koa cluster [https://docs.google.com/document/d/1KhDU0tsA2GHKgsEEBMTHEsyBQ-z2ErbhawwT6W2ldGA/edit?usp=drive_link onboarding guide]
+- Dive into Deep Learning [https://d2l.ai/ book]
+- Deep Learning (MIT) [https://www.deeplearningbook.org/ book]
+- [https://huggingface.co/papers Huggingface daily papers]
+- [https://github.com/elicit/machine-learning-list?tab=readme-ov-file Reading list]
+- [https://docs.google.com/forms/d/e/1FAIpQLSdfiV8igvgJxp_VcwRDtfGGovwtNywWw5FpIe6FqYuT6LVXkw/viewform?usp=sharing&ouid=111841773839267096112 Anonymous feedback form]
