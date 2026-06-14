@@ -5,14 +5,21 @@
     <link>https://igormolybog.github.io/</link>
     <description>Updates from the News section</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 01 Jun 2026 05:55:35 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 14 Jun 2026 15:24:59 +0000</lastBuildDate>
     <atom:link rel="self" type="application/rss+xml" href="https://igormolybog.github.io/news.xml" />
+    <item>
+      <title>The paper [https://arxiv</title>
+      <link>https://arxiv.org/abs/2601.10922</link>
+      <guid isPermaLink="false">ba71f523fc10fc9042c750834a17d3261c7942d6</guid>
+      <pubDate>Mon, 01 Jun 2026 12:00:00 +0000</pubDate>
+      <description>June 2026: The paper What Matters in Data Curation for Multimodal Reasoning? Insights from the DCVLR Challenge (https://arxiv.org/abs/2601.10922) will be presented at the ICML 2026 Efficient Multimodal Question Answering (https://qanta-org.github.io/competition/2026/icml/) workshop.</description>
+    </item>
     <item>
       <title>Our work on [https://arxiv</title>
       <link>https://arxiv.org/abs/2601.19099</link>
-      <guid isPermaLink="false">6bb074562c942a9073a90e6a44e7a1f23e319457</guid>
-      <pubDate>Sun, 01 Mar 2026 12:00:00 +0000</pubDate>
-      <description>March 2026: Our work on m2sv: A Scalable Benchmark for Map-to-Street-View Spatial Reasoning (https://arxiv.org/abs/2601.19099) will be presented at the ICML 2026 Combining Theory and Benchmarks (https://sites.google.com/view/icml-ctb/home) workshop.</description>
+      <guid isPermaLink="false">914dafca13a0c12444469fc29f6c97d674614211</guid>
+      <pubDate>Fri, 01 May 2026 12:00:00 +0000</pubDate>
+      <description>May 2026: Our work on m2sv: A Scalable Benchmark for Map-to-Street-View Spatial Reasoning (https://arxiv.org/abs/2601.19099) will be presented at the ICML 2026 Combining Theory and Benchmarks (https://sites.google.com/view/icml-ctb/home) workshop.</description>
     </item>
     <item>
       <title>I will give a talk on our group's work for the [https://virtualcellchallenge</title>
