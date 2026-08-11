@@ -5,8 +5,15 @@
     <link>https://igormolybog.github.io/</link>
     <description>Updates from the News section</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 15 Jul 2026 19:18:10 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 05 Aug 2026 01:24:14 +0000</lastBuildDate>
     <atom:link rel="self" type="application/rss+xml" href="https://igormolybog.github.io/news.xml" />
+    <item>
+      <title>The first paper from the bioinformatics wing of HawAII is on arXiv! [https://arxiv</title>
+      <link>https://arxiv.org/abs/2608.02961</link>
+      <guid isPermaLink="false">fac15bdcedbf2e8a0867c851b8ad1002a5c71854</guid>
+      <pubDate>Wed, 01 Jul 2026 12:00:00 +0000</pubDate>
+      <description>July 2026: The first paper from the bioinformatics wing of HawAII is on arXiv! Scaling an Autoregressive Transformer for Single-Cell Generation (https://arxiv.org/abs/2608.02961) is a story about an embedding model for single-cell RNA expression profiles with predictable scaling properties.</description>
+    </item>
     <item>
       <title>The paper [https://arxiv</title>
       <link>https://arxiv.org/abs/2601.10922</link>
