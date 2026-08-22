@@ -1,21 +1,17 @@
 # jemdoc: menu{MENU.jemdoc}{ece605_fall2026.html}, nofooter  
 =ECE605 Large-Scale AI
 
-- [ece605/syllabus.html Course Syllabus]
-- [https://drive.google.com/drive/folders/1ZTzzS5fJ686y13mtvEj0wEtoPsdAxKHI?usp=drive_link Recordings (need to request access)]
-- [https://drive.google.com/drive/folders/12gwb4w0rUKqw70BU_6Hi9gHvISBJmdnY?usp=sharing Lecture slides]
-- [https://discord.gg/cvRsG6mqaM Discord forum]
-- [https://docs.google.com/forms/d/e/1FAIpQLScM9HypTqntQSK-NxOu_M5lIeTh6UG8ER9N6UM8jD2_XgoAlA/viewform?usp=publish-editor Project submission form]
-
 == Course Overview
-ECE 605 is an advanced graduate research seminar and project course dedicated to the scientific principles, systems architectures, and learning dynamics of frontier Large-Scale AI. 
-
-The Fall 2026 offering focuses on the convergence of *Vision-Language Models, Generative Action Policies, and Embodied AI*, exploring five thematic clusters through breakthrough literature:
-- *Challenge Foundations & Interactive Simulation*: Deep dive into the OmniGibson environment, BEHAVIOR-1K benchmark, and state-of-the-art competition solutions.
-- *Vision-Language-Action (VLA) Architectures*: From multimodal backbones (ViT, SigLIP, PaliGemma) to continuous flow-based policies ($\pi_0$, $\pi_{0.5}$, $\pi_{RL}$), generalist humanoids (GR00T, Octo, OpenVLA), and System 2 action reasoning (MolmoAct2).
-- *Robotics Data Systems & Scaling Laws*: Cross-embodiment agglomeration datasets (Open X-Embodiment, DROID), novel demonstration pipelines (UMI, DART), synthetic simulation data (RoboGen), and empirical data scaling laws.
-- *World Models & Latent Planning*: Joint-Embedding Predictive Architectures (I-JEPA, V-JEPA 2.1, LeWorldModel) and generative video foundation models as physics engines for real-time planning.
-- *Hybrid & Multimodal Frontiers*: Distilling classical motion planners into visual policies and integrating tactile/force feedback via Mixture-of-Experts (ForceVLA).
+The Fall 2026 offering focuses on the Embodied AI and Visual-Language-Action models.
+The course emphasizes real-world research problem-solving through three core pillars:
+- Literature Review: Role-playing presentations dissecting frontier across five thematic clusters:
+    - Final Project Foundations & Interactive Simulation
+    - Vision-Language-Action (VLA) Architectures
+    - Robotics Data Systems & Scaling Laws
+    - World Models & Latent Planning
+    - Hybrid & Multimodal FrontiersVision-Language-Action (VLA) architectures and generative control policies.
+- Rigorous Experimentation: Hands-on empirical exploration, baseline reproduction, and model training on GPU clusters.
+- Collaborative Teamwork: Large-team engineering to build, iterate, and submit competitive solutions to a live benchmark.
 
 == Class schedule
 - Monday and Wednesday, 10:30-11:45, Moore Hall 203 ([https://hawaii.zoom.us/j/84384222329 zoom link]; password: ece)
@@ -25,6 +21,7 @@ The Fall 2026 offering focuses on the convergence of *Vision-Language Models, Ge
 - *Essential background*: [https://igormolybog.github.io/ece405_sprg2026.html ECE405 Introduction to Large-Scale AI Systems] (undergraduate version). Mastery of the material covered in ECE405 (or equivalent) is crucial for success in ECE605. If you have not taken it, please review the ECE405 lecture slides, recordings, and assignments.
 
 == Core materials
+- [ece605/syllabus.html Course Syllabus]
 - [https://docs.google.com/spreadsheets/d/1ZX87ISNGc01UB_djdRcY4-Hv6fDj6qizkhnwX5KOAY0/edit?usp=sharing Seminar and Project schedule (Sign-up sheet)]:
     -- pick your project team
     -- indicate interest in reporting on a paper
@@ -32,6 +29,10 @@ The Fall 2026 offering focuses on the convergence of *Vision-Language Models, Ge
     -- find out the schedule of papers to be reviewed
 - [https://drive.google.com/drive/folders/1GArIkJzJ1Phtca5Qg1_sDW1n2mOj5JwT?usp=sharing Paper Seminars Materials folder]: shared Google Drive pool for uploading seminar slides and notes (see [ece605/syllabus.html syllabus] for role guidelines and formatting)
 - Final project challenge: [https://behavior.stanford.edu/challenge/index.html 2026 BEHAVIOR Challenges] (see [ece605/syllabus.html syllabus] for milestone deliverables and rubrics)
+- [https://docs.google.com/forms/d/e/1FAIpQLScM9HypTqntQSK-NxOu_M5lIeTh6UG8ER9N6UM8jD2_XgoAlA/viewform?usp=publish-editor Project submission form]
+- [https://discord.gg/cvRsG6mqaM Discord forum]
+- [https://drive.google.com/drive/folders/1ZTzzS5fJ686y13mtvEj0wEtoPsdAxKHI?usp=drive_link Recordings (need to request access)]
+- [https://drive.google.com/drive/folders/12gwb4w0rUKqw70BU_6Hi9gHvISBJmdnY?usp=sharing Lecture slides]
 
 == Additional materials
 
