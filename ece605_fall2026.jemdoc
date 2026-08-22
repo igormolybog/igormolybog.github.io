@@ -11,18 +11,20 @@
 - Monday and Wednesday, 10:30-11:45, Moore Hall 203 ([https://hawaii.zoom.us/j/84384222329 zoom link]; password: ece)
 - Office hours: by [https://calendar.app.google/mLp9CvS96utpEjDK6 appointment] or after class
 
-== Core materials:
-- Use the [https://docs.google.com/spreadsheets/d/1ZX87ISNGc01UB_djdRcY4-Hv6fDj6qizkhnwX5KOAY0/edit?usp=sharing Seminar and Project schedule] to:
+== Prerequisites
+- *Essential background*: [https://igormolybog.github.io/ece405_sprg2026.html ECE405 Introduction to Large-Scale AI Systems] (undergraduate version). Mastery of the material covered in ECE405 (or equivalent) is crucial for success in ECE605. If you have not taken it, please review the ECE405 lecture slides, recordings, and assignments.
+
+== Core materials
+- [https://docs.google.com/spreadsheets/d/1ZX87ISNGc01UB_djdRcY4-Hv6fDj6qizkhnwX5KOAY0/edit?usp=sharing Seminar and Project schedule (Sign-up sheet)]:
     -- pick your project team
     -- indicate interest in reporting on a paper
     -- suggest a paper for review
     -- find out the schedule of papers to be reviewed
-- Upload the seminar materials (slides, code, links to Notion, etc) presented during the paper seminar into the corresponding subfolders of the [https://drive.google.com/drive/folders/1GArIkJzJ1Phtca5Qg1_sDW1n2mOj5JwT?usp=sharing Paper Seminars Materials folder]
-- Final project topic: [behavior.stanford.edu/challenge/index.html 2026 BEHAVIOR Challenges]
+- [https://drive.google.com/drive/folders/1GArIkJzJ1Phtca5Qg1_sDW1n2mOj5JwT?usp=sharing Paper Seminars Materials folder]: shared Google Drive pool for uploading seminar slides and notes (see [ece605/syllabus.html syllabus] for role guidelines and formatting)
+- Final project challenge: [https://behavior.stanford.edu/challenge/index.html 2026 BEHAVIOR Challenges] (see [ece605/syllabus.html syllabus] for milestone deliverables and rubrics)
 
 == Additional materials
 
-- [https://igormolybog.github.io/ece405_sprg2026.html "Pre-requisite" undergrad course]
 - Koa cluster [https://docs.google.com/document/d/1KhDU0tsA2GHKgsEEBMTHEsyBQ-z2ErbhawwT6W2ldGA/edit?usp=drive_link onboarding guide]
 - Dive into Deep Learning [https://d2l.ai/ book]
 - Deep Learning (MIT) [https://www.deeplearningbook.org/ book]
