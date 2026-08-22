@@ -1,0 +1,650 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
+  "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head>
+<meta name="generator" content="jemdoc, see http://jemdoc.jaboc.net/" />
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<link rel="stylesheet" href="../jemdoc.css" type="text/css" />
+<title>ECE 605: Large-scale AI</title>
+</head>
+<body>
+<table summary="Table for page layout." id="tlayout">
+<tr valign="top">
+<td id="layout-menu">
+<div class="menu-category">Menu</div>
+<div class="menu-item"><a href="../index.html">Home</a></div>
+<div class="menu-item"><a href="../research.html">Research</a></div>
+<div class="menu-item"><a href="../group.html">Group</a></div>
+<div class="menu-item"><a href="../CV.pdf">CV</a></div>
+<div class="menu-item"><a href="https://scholar.google.com/citations?user=aJUg17UAAAAJ&hl=en">Publications</a></div>
+<div class="menu-item"><a href="https://github.com/igormolybog">GitHub</a></div>
+<div class="menu-item"><a href="https://calendar.app.google/mLp9CvS96utpEjDK6">Schedule&nbsp;Meeting</a></div>
+<div class="menu-category">Teaching</div>
+<div class="menu-item"><a href="../ece605_fall2026.html" class="current">ECE605&nbsp;(2026)</a></div>
+<div class="menu-item"><a href="../ece405_sprg2026.html">ECE405&nbsp;(2026)</a></div>
+<div class="menu-item"><a href="../seminar-sprg2026.html">seminar&nbsp;(s2026)</a></div>
+<div class="menu-item"><a href="../vip.html">VIP</a></div>
+<div class="menu-item"><a href="../ece605_fall2025.html">ECE605&nbsp;(2025)</a></div>
+<div class="menu-item"><a href="../ece491B_sprg2025.html">ECE491B&nbsp;(2025)</a></div>
+<div class="menu-item"><a href="../ece491B-693B_fall2024.html">ECE491B/693B</a></div>
+<div class="menu-item"><a href="../ee417-617_spring2024.html">EE417/617</a></div>
+<div class="menu-item"><a href="../ee650_fall2023.html">EE650</a></div>
+<div class="menu-item"><a href="../ieor169.html">IEOR169</a></div>
+<div class="menu-item"><a href="../ieor240.html">IEOR240</a></div>
+</td>
+<td id="layout-content">
+<div id="toptitle">
+<h1>ECE 605: Large-scale AI</h1>
+<div id="subtitle"><i>Syllabus</i>
+</div>
+</div>
+<p>This course is designed to give the technical background for a deep understanding of the problems associated with the development, deployment, and exploitation of Large Language Models, providing the students with a sufficient knowledge base to perform research directed at resolving these problems in academia or industry. 
+</p>
+<p>Instructor: <br />
+Prof. Igor Molybog <br />
+<a href="mailto:molybog@hawaii.edu" target=&ldquo;blank&rdquo;>molybog@hawaii.edu</a>
+</p>
+<p>Course website:
+</p>
+<ul>
+<li><p><a href="https://igormolybog.github.io/ece605_fall2026.html" target=&ldquo;blank&rdquo;>The course webpage</a> contains notes, links, and additional materials
+</p>
+</li>
+</ul>
+<p>Pre-requisites: <br />
+Solid coding background (Python, PyTorch) <br />
+Linear algebra and statistics fundamentals <br />
+Familiarity with the topics covered in the <a href="https://igormolybog.github.io/ece405_sprg2026.html" target=&ldquo;blank&rdquo;>Undergraduate version</a> of the class <br />
+(If you did not take it or any equivalent, you can see slides, watch lecture recordings, and check out homework assignments)
+</p>
+<h2>Logistics  </h2>
+<p>The class is split into two parts: 
+</p>
+<ul>
+<li><p>Lectures (just a refresher to get everyone up to speed)  
+</p>
+</li>
+<li><p><a href="https://colinraffel.com/blog/role-playing-seminar.html" target=&ldquo;blank&rdquo;>Role-playing paper seminar</a> 
+</p>
+</li>
+</ul>
+<p>The lectures will start the semester by providing the necessary background to orient oneself in the vast LLM-related literature. The second part will involve the presentation and discussion of recent important papers on statistical models. The objective of the course is to instill a holistic view of the latest developments in AI, and help the participants understand their broad implications.
+</p>
+<p>The class does not have homework assignments, but it <b>has a final project</b>.
+</p>
+<h3>Role-playing seminar</h3>
+<p>Each paper will be presented by a group of students, each assuming a specific &ldquo;role.&rdquo; These roles provide distinct perspectives and help structure your exploration and understanding of the paper. Below are detailed instructions and guiding questions for each role to ensure your presentations are insightful and educational.
+</p>
+<h4>Stakeholder ✍️ (25 minutes)</h4>
+<p>Act as the authors of the paper. Your goal is to communicate the essence of your work clearly.
+</p>
+<ul>
+<li><p>Motivation:  
+</p>
+<ul>
+<li><p>What inspired you to conduct this research?  
+</p>
+</li>
+<li><p>What real-world problems or theoretical gaps does your paper address?  
+</p>
+</li></ul>
+</li>
+<li><p>Problem Definition:  
+</p>
+<ul>
+<li><p>How do you precisely define the problem you're tackling?  
+</p>
+</li>
+<li><p>Why is this problem significant or challenging?  
+</p>
+</li></ul>
+</li>
+<li><p>Methodology:  
+</p>
+<ul>
+<li><p>What specific approach did you choose, and why?  
+</p>
+</li>
+<li><p>Describe your model, algorithm, or experimental setup clearly and concisely.  
+</p>
+</li></ul>
+</li>
+<li><p>Experimental Findings:  
+</p>
+<ul>
+<li><p>Summarize your key results and highlight the most important findings.  
+</p>
+</li>
+<li><p>Why do these results matter?  
+</p>
+</li>
+<li><p>What insights do these results provide?
+</p>
+</li>
+</ul>
+
+</li>
+</ul>
+<h4>Scientific Reviewer 🔎 (15 minutes)</h4>
+<p>Critically evaluate the paper as if reviewing for a prestigious conference (e.g., <a href="https://neurips.cc/Conferences/2020/PaperInformation/ReviewerGuidelines" target=&ldquo;blank&rdquo;>NeurIPS</a> &ldquo;Review Content&rdquo; or <a href="https://icml.cc/Conferences/2025/ReviewerInstructions" target=&ldquo;blank&rdquo;>ICML</a> “Main Track Reviewer Form Instructions”). Your review should be actionable rather than descriptive. In other words, it should provide explicit instructions on improving the paper.
+</p>
+<ul>
+<li><p>Strengths:  
+</p>
+<ul>
+<li><p>What are the significant contributions of the paper?  
+</p>
+</li>
+<li><p>How original or novel is the approach?  
+</p>
+</li>
+<li><p>How impactful are the results?  
+</p>
+</li></ul>
+</li>
+<li><p>Weaknesses:  
+</p>
+<ul>
+<li><p>Are there any methodological shortcomings or assumptions?  
+</p>
+</li>
+<li><p>Are there issues with the experimental setup or evaluation metrics?  
+</p>
+</li>
+<li><p>What aspects of the paper could be improved?  
+</p>
+</li></ul>
+</li>
+<li><p>Suggestions for Improvement:  
+</p>
+<ul>
+<li><p>How could the paper’s presentation or experiments be made clearer or more convincing?  
+</p>
+</li>
+<li><p>Suggest potential follow-up experiments or analyses that could strengthen the paper.
+</p>
+</li>
+</ul>
+
+</li>
+</ul>
+<h4>Empiricist 👩🏽‍🔬 (15 minutes)</h4>
+<p>Conduct a small-scale implementation or practical exploration of the paper’s ideas or data. Empiricists should aim to reproduce a result and take a next step forward, verifying new hypotheses or extending arguments about the existing claims.
+</p>
+<ul>
+<li><p>Experimental design:  
+</p>
+<ul>
+<li><p>Clearly formulate the hypothesis you are testing  
+</p>
+</li></ul>
+</li>
+<li><p>Implementation:  
+</p>
+<ul>
+<li><p>Clearly describe the aspect of the paper you implemented or the data (source or result) you have processed.  
+</p>
+</li>
+<li><p>Provide a brief overview or pseudocode of your implementation.  
+</p>
+</li></ul>
+</li>
+<li><p>Empirical Observations:  
+</p>
+<ul>
+<li><p>What results did you observe?  
+</p>
+</li>
+<li><p>How did your findings align or diverge from the paper’s reported results?  
+</p>
+</li></ul>
+</li>
+<li><p>Challenges &amp; Insights:  
+</p>
+<ul>
+<li><p>What challenges did you encounter during implementation?  
+</p>
+</li>
+<li><p>What insights did you gain about the method or model by performing this experiment?
+</p>
+</li>
+</ul>
+
+</li>
+</ul>
+<h4>Archaeologist 🏺 (15 minutes)</h4>
+<p>Archeologists should contextualize the paper within existing research literature. They should aim to put the paper into perspective, reflect on alternative ways to solve the problem, and emphasize novelty and originality.
+</p>
+<ul>
+<li><p>Influential Prior Work:  
+</p>
+<ul>
+<li><p>Identify and summarize at least one key previous paper that significantly influenced the current work.  
+</p>
+</li>
+<li><p>Explain explicitly how this prior paper shaped or motivated the current research.  
+</p>
+</li></ul>
+</li>
+<li><p>Subsequent Influential Work:  
+</p>
+<ul>
+<li><p>Identify and briefly describe at least one newer paper that cites and builds upon this current paper.  
+</p>
+</li>
+<li><p>How did this subsequent work extend, validate, or challenge the current paper's ideas?
+</p>
+</li>
+</ul>
+
+</li>
+</ul>
+<h4>Visionary 🔭 (5 minutes)</h4>
+<p>Imagine and propose a creative yet realistically implementable follow-up research project or novel application inspired by the current paper.
+</p>
+<ul>
+<li><p>Proposed Research Project:  
+</p>
+<ul>
+<li><p>Clearly describe a new research question or hypothesis that logically follows from this paper.  
+</p>
+</li>
+<li><p>Why is this follow-up project important or exciting?  
+</p>
+</li></ul>
+</li>
+<li><p>New Applications:  
+</p>
+<ul>
+<li><p>Suggest a practical application of the paper’s findings or methodologies not yet explored.  
+</p>
+</li>
+<li><p>Explain why this application is feasible and potentially impactful.
+</p>
+</li>
+</ul>
+
+</li>
+</ul>
+<p>Roles can be presented individually or in groups of up to 3. If working in groups, ensure each member has a clear, equitable role to present and discuss during class.
+</p>
+<p><b>Who presents what role and when?</b> Starting from the beginning of the semester, students will be able to assign themselves to a paper/role using the <a href="https://docs.google.com/spreadsheets/d/1ZX87ISNGc01UB_djdRcY4-Hv6fDj6qizkhnwX5KOAY0/edit?usp=sharing" target=&ldquo;blank&rdquo;><b>sign-up sheet</b></a>. In case there is an insufficient subscription for a paper, the assignment will be done at random. Random assignments cannot be done for a role that a student has already been assigned to in another presentation. Each student can perform in a certain role only once, although multiple papers can be presented.   <br />
+A student’s self-assignment to a role can be canceled up to one week before the presentation. If swapping roles/slots due to time conflicts, please discuss it in the Discord forum and notify the professor.  <br />
+Each role group (irrespective of how many students are assigned to it) should aim for specified time budgets for each role. However, the depth of the research is expected to be proportional to the number of participants in the group. You are encouraged to have slides for your role. If you do so, I would recommend less than 7-10 slides to make sure stay within our time budget.
+</p>
+<p><b>What slides?</b> To minimize time spent context switching or fighting with screen sharing/projector dongles, we will have a <a href="https://drive.google.com/drive/folders/1GArIkJzJ1Phtca5Qg1_sDW1n2mOj5JwT?usp=drive_link" target=&ldquo;blank&rdquo;>shared pool of slides (hosted on Google)</a>. Each role group is encouraged to title their slides with &ldquo;<b>[role emoji]</b>: <b>[student name]</b>&rdquo; (as in &ldquo;🏺: Jane,John&rdquo;) so that the slides are quickly identified during the session. If you choose to make slides, you're <b>not</b> expected to prepare a full-blown presentation &ndash; they're encouraged for visual aids and facilitating the presentation.
+</p>
+<p><b>Non-presenter role?</b> If you aren't in the presenting group during a given class period, you are supposed to read through the paper and come up with a question you can ask every role. After a role is done with presenting, you will have the opportunity to ask questions. Your grade for the class will heavily depend on your activity in every seminar (not just your presentations), so please make sure to speak up and be proactive. 
+</p>
+<h3>Project</h3>
+<p>For the Final Project, students will have the opportunity to participate in a live ML challenge (TBD)  <br />
+To simulate a real-life collaborative research experience, we will aim to form at most two large teams of at least five people each.
+</p>
+<p>The project teams will have weekly consultations with the professor and write regular reports.
+</p>
+<h3>Project Deliverable Guidelines</h3>
+<p>There are three key milestones that will require reporting: the <b>Summary Proposal</b>, <b>Midway Report</b>, and <b>Final Report</b>. One report is required per team. Along with the combined report, every student will be required to submit a personal contributions attachment, outlining the efforts they contributed to the team's progress toward the milestone.
+</p>
+<h4>Summary Proposal</h4>
+<p><b>Due:</b> Friday of Week 6 (Maximum: 2 pages)
+</p>
+<p>Your proposal should briefly but clearly outline your project idea, approach, and goals. The recommended structure is:
+</p>
+<ol>
+<li><p><b>Problem Definition and Motivation</b> (1-2 paragraphs)  
+</p>
+<ol>
+<li><p>Clearly state the problem.  
+</p>
+</li>
+<li><p>Explain why this problem is important or relevant.  
+</p>
+</li></ol>
+</li>
+<li><p><b>Proposed Approach</b> (1-2 paragraphs)  
+</p>
+<ol>
+<li><p>Outline the approach or methods you plan to use.  
+</p>
+</li></ol>
+</li>
+<li><p><b>Concrete Goal</b> (clear and specific)  
+</p>
+<ol>
+<li><p>Avoid broad statements.  
+</p>
+</li>
+<li><p>Provide focused, concrete goals (e.g., &ldquo;I will verify hypothesis X through experiments Y1, Y2, Y3&rdquo;).  
+</p>
+</li></ol>
+</li>
+<li><p><b>Expected Outcomes</b>  
+</p>
+<ol>
+<li><p>Briefly describe the results you anticipate.  
+</p>
+</li></ol>
+</li>
+<li><p><b>Required Resources &amp; Technical Infrastructure</b>  
+</p>
+<ol>
+<li><p>Data sources you will use.  
+</p>
+</li>
+<li><p>Computational resources (GPUs, cloud resources, etc.).  
+</p>
+</li>
+<li><p>Tools, software libraries, and frameworks.  
+</p>
+</li></ol>
+</li>
+<li><p><b>Motivation &amp; Impact</b>  
+</p>
+<ol>
+<li><p>Who will benefit from your project and how?  
+</p>
+</li>
+<li><p>Potential applications and real-world scenarios.  
+</p>
+</li></ol>
+</li>
+<li><p><b>Measurable Objectives &amp; Success Criteria</b>  
+</p>
+<ol>
+<li><p>Clearly define quantifiable metrics for success.  
+</p>
+</li>
+<li><p>Specific research questions your project will answer.  
+</p>
+</li></ol>
+</li>
+<li><p><b>Milestones and Timeline</b>  
+</p>
+<ol>
+<li><p>Provide a roadmap with manageable phases and realistic deadlines.  
+</p>
+</li></ol>
+</li>
+<li><p><b>Background Research and References</b>  
+</p>
+<ol>
+<li><p>Summarize key existing literature or projects related to your work.  
+</p>
+</li>
+<li><p>Include relevant references.  
+</p>
+</li></ol>
+</li>
+<li><p><b>Training Objectives and Skills Development</b>  
+</p>
+<ol>
+<li><p>List the technical and professional skills you aim to enhance.
+</p>
+</li>
+</ol>
+
+</li>
+</ol>
+<h4>Midway Report</h4>
+<p><b>Due:</b> Friday of Week 11 (Maximum: 5 pages)
+</p>
+<p>The midway report documents your progress and provides a clear plan for the remaining project work.
+</p>
+<p>Your midway report must include:
+</p>
+<ol>
+<li><p><b>Current Progress</b>  
+</p>
+<ol>
+<li><p>Clearly describe what you have completed.  
+</p>
+</li>
+<li><p>Document preliminary experiments and results.  
+</p>
+</li></ol>
+</li>
+<li><p><b>Data Details</b>  
+</p>
+<ol>
+<li><p>Raw data format and source.  
+</p>
+</li>
+<li><p>Steps taken in data preprocessing.  
+</p>
+</li></ol>
+</li>
+<li><p><b>Data Pipeline</b>  
+</p>
+<ol>
+<li><p>Explain your data processing pipeline clearly.  
+</p>
+</li></ol>
+</li>
+<li><p><b>Benchmarks and Metrics</b>  
+</p>
+<ol>
+<li><p>Clearly define how you evaluate the performance of your solution.  
+</p>
+</li></ol>
+</li>
+<li><p><b>Baseline and Methodology</b>  
+</p>
+<ol>
+<li><p>Provide a clear description of baseline methods for comparison.  
+</p>
+</li>
+<li><p>Describe your proposed methodology in detail.  
+</p>
+</li></ol>
+</li>
+<li><p><b>Ablation Studies</b>  
+</p>
+<ol>
+<li><p>Describe experiments to isolate and understand different components of your solution.  
+</p>
+</li></ol>
+</li>
+<li><p><b>Results</b>  
+</p>
+<ol>
+<li><p>Clearly present initial results.  
+</p>
+</li></ol>
+</li>
+<li><p><b>Plan for Remaining Work</b>  
+</p>
+<ol>
+<li><p>Detail your remaining tasks and timeline.
+</p>
+</li>
+</ol>
+
+</li>
+</ol>
+<h4>Final Report</h4>
+<p><b>Due:</b> Friday of the last week of classes (Maximum: 8 pages, excluding references)
+</p>
+<p>Your final report should emulate the structure of a standard conference paper. It must comprehensively summarize your project from concept to conclusion, clearly communicating your findings.
+</p>
+<p>Include the following sections:
+</p>
+<ol>
+<li><p><b>Abstract</b>  
+</p>
+<ol>
+<li><p>Concisely summarize your problem, approach, results, and conclusions.  
+</p>
+</li></ol>
+</li>
+<li><p><b>Introduction</b>  
+</p>
+<ol>
+<li><p>Clearly state the problem and motivate why it is important.  
+</p>
+</li>
+<li><p>Summarize relevant literature, technologies, or prior solutions.  
+</p>
+</li></ol>
+</li>
+<li><p><b>Methodology</b>  
+</p>
+<ol>
+<li><p>Explain the approach you chose, justifying why this method is suitable.  
+</p>
+</li>
+<li><p>Include a clear description of the data pipeline, model architectures, algorithms, and other relevant technical details.  
+</p>
+</li></ol>
+</li>
+<li><p><b>Experiments and Evaluation</b>  
+</p>
+<ol>
+<li><p>Clearly describe experiments conducted.  
+</p>
+</li>
+<li><p>Provide benchmarks, metrics, and evaluation methodologies.  
+</p>
+</li></ol>
+</li>
+<li><p><b>Results and Discussion</b>  
+</p>
+<ol>
+<li><p>Present and interpret your results clearly.  
+</p>
+</li>
+<li><p>Discuss what worked, what did not, and why.  
+</p>
+</li></ol>
+</li>
+<li><p><b>Conclusion and Future Work</b>  
+</p>
+<ol>
+<li><p>Summarize findings and their implications.  
+</p>
+</li>
+<li><p>Suggest directions for future work.  
+</p>
+</li></ol>
+</li>
+<li><p><b>Contributions (for group projects)</b>  
+</p>
+<ol>
+<li><p>Explicitly list each member's contributions.  
+</p>
+</li></ol>
+</li>
+<li><p><b>References</b>  
+</p>
+<ol>
+<li><p>Properly cite all relevant sources.
+</p>
+</li>
+</ol>
+
+</li>
+</ol>
+<h4>Example project reports.</h4>
+<p>Last year, the project topic was more open-ended. Based on the feedback, we introduce more structure to the project’s goals. However, the format of milestone reports remains largely unchanged.  <br />
+Examples in the table below are aiming to provide a feeling of how a report and feedback might look. The reports are not perfect, and some criticism is provided in the feedback section.
+</p>
+<table id="example_reports">
+<tr class="r1"><td class="c1"><b>Student</b> </td><td class="c2"> <b>Proposal</b> </td><td class="c3"> <b>Midway</b> </td><td class="c4"> <b>Final</b> </td><td class="c5"> <b>feedback</b> </td></tr>
+<tr class="r2"><td class="c1">Andre Shiu </td><td class="c2"> <a href="https://drive.google.com/file/d/1EFge7Xx9pvRenQ5o6sjHcG5h7v_1RvZj/view?usp=sharing" target=&ldquo;blank&rdquo;>link</a> </td><td class="c3"> <a href="https://drive.google.com/file/d/1J2an3wXpisTYEaLnZX7NJU20Cu867F3y/view?usp=sharing" target=&ldquo;blank&rdquo;>link</a> </td><td class="c4"> <a href="https://drive.google.com/file/d/1yCpqpFQCmjDl7upp4fD3q8Txqd8brpJe/view?usp=sharing" target=&ldquo;blank&rdquo;>link</a> </td><td class="c5"> <a href="https://docs.google.com/document/d/1LgcBI44jvbXKYXcGNPW8XNFl2UT69vouJJBkMlAH250/edit?usp=sharing" target=&ldquo;blank&rdquo;>link</a> </td></tr>
+<tr class="r3"><td class="c1">Yizhu Wen </td><td class="c2"> <a href="https://drive.google.com/file/d/16q6Cc_YTodQkkyZHW1JpqfvTXFAuYhHz/view?usp=sharing" target=&ldquo;blank&rdquo;>link</a> </td><td class="c3"> <a href="https://drive.google.com/file/d/1GR5AcA6YnYmbUasAUVry19IPagXeAeh8/view?usp=sharing" target=&ldquo;blank&rdquo;>link</a> </td><td class="c4"> <a href="https://drive.google.com/file/d/1wMKa5kPjaH1fHVs6xFLybXPnILiFBHBx/view?usp=sharing" target=&ldquo;blank&rdquo;>link</a> </td><td class="c5"> <a href="https://docs.google.com/document/d/1HjnyZheqtbD34ZVzTJwP2pZm1FKM99ly5YWIB-rjv2k/edit?usp=sharing" target=&ldquo;blank&rdquo;>link</a> </td></tr>
+<tr class="r4"><td class="c1">Yixin Zhang </td><td class="c2"> <a href="https://drive.google.com/file/d/1aqEMnbDSm6jdDsF3RiPx6DMbL2tLnD5q/view?usp=sharing" target=&ldquo;blank&rdquo;>link</a> </td><td class="c3"> <a href="https://drive.google.com/file/d/1U5EjTR4hFt5xb2oFFeW-sa_Mh-ZnCdIL/view?usp=sharing" target=&ldquo;blank&rdquo;>link</a> </td><td class="c4"> <a href="https://drive.google.com/file/d/1dXs02skczfP9L5M3G43JT4wwn-hTAeOD/view?usp=sharing" target=&ldquo;blank&rdquo;>link</a> </td><td class="c5"> <a href="https://docs.google.com/document/d/1ieJ3oi8BQshERxTvzAanGc9oUmOYdjAq0FzVde2auk8/edit?usp=sharing" target=&ldquo;blank&rdquo;>link</a>
+</td></tr></table>
+<p>Please feel free to use the <a href="https://www.overleaf.com/latex/templates/neurips-2022/kxymzbjpwsqx" target=&ldquo;blank&rdquo;>template</a> for your project report.
+</p>
+<h4>Personal contribution statement</h4>
+<p>Aside from the team report (only submitted by one team member), there is a required submission of a personal contribution statement (one per team member). This way, one person per team ends up submitting 2 reports per milestone (team + personal), while the rest only submit one report per milestone (personal contribution). This requirement is put in place to mimc the (semi-)annual review process common in industrial AI labs.  <br />
+Please feel free to use the <a href="https://docs.google.com/document/d/1wkPcsvy3HKrj0knqanYslUS4MwyweixwKNa-j1G9f3g/edit?usp=sharing" target=&ldquo;blank&rdquo;>Personal Contribution Statement (template)</a> to format your report (optional).
+</p>
+<p><b>Project reports should be submitted through the form</b>: <a href="https://docs.google.com/forms/d/e/1FAIpQLScM9HypTqntQSK-NxOu_M5lIeTh6UG8ER9N6UM8jD2_XgoAlA/viewform?usp=publish-editor" target=&ldquo;blank&rdquo;>here</a>
+</p>
+<h2>Grade calculation </h2>
+<p>Role-playing seminar participation grade is calculated roughly using the following rule:
+</p>
+<ul>
+<li><p>0 points for just coming to class and not participating  
+</p>
+</li>
+<li><p>1 point for coming to class and participating (actively), but not presenting  
+</p>
+</li>
+<li><p>2 points for presenting (well)  
+</p>
+</li>
+<li><p>-1 point for not showing up when you are not presenting  
+</p>
+</li>
+<li><p>-2 points for not presenting on schedule (whether you showed up or not)  
+</p>
+</li>
+<li><p>3 points for top performance of the day (usually among presenters)
+</p>
+</li>
+</ul>
+<p>Project performance is calculated in two steps, roughly using the following rule:
+</p>
+<ul>
+<li><p>Step 1 (Team Performance): The team’s work at the milestone is evaluated on technical quality, progress against goals, rigor of experiments, and reproducibility, resulting in a Team Performance Score (0–100).   
+</p>
+</li>
+<li><p>Step 2 (Individual Contribution Weighting): that score is then allocated across team members in proportion to demonstrated contribution. Contributions are inferred from weekly consultations, milestone artifacts (code, experiments, docs), and each student’s Personal Contribution Statement, with light peer input for calibration. As a guardrail, weights are usually bounded to a reasonable range (e.g., ~0.7×–1.3×) unless there is clear evidence for outliers. The default assumption is equal shares when evidence is insufficient. Students may request a brief calibration check within one week of feedback if they believe their weighting doesn’t match the submitted evidence.
+</p>
+</li>
+</ul>
+<p>Rubric for evaluating personal contributions:
+</p>
+<ul>
+<li><p>Technical ownership &amp; delivery (40%): scoped, shipped, reproducible artifacts tied to roadmap. Includes technical enablement of other students in the class (teammates or otherwise)  
+</p>
+</li>
+<li><p>Measured impact (25%): metrics moved vs. baseline; ablations; clarity of results  
+</p>
+</li>
+<li><p>Collaboration &amp; enablement (20%): code reviews, docs, unblockings, shared infra  
+</p>
+</li>
+<li><p>Rigor &amp; safety (10%): data hygiene, eval soundness, reproducibility, risk checks  
+</p>
+</li>
+<li><p>Communication (5%): crisp reports, decision logs, responsible self-assessment
+</p>
+</li>
+</ul>
+<p>Class grade = <br />
+0.6 * Participation (presentation + discussion participation) + <br />
+0.4 * Project (team performance * personal contribution)
+</p>
+<h2>Evaluation of the Course</h2>
+<p>Students&rsquo; continued feedback is highly appreciated, both positive and negative. To that aim, a form will remain open throughout the semester where you can provide feedback directly to me while remaining anonymous.  <br />
+You can submit feedback <a href="https://docs.google.com/forms/d/e/1FAIpQLSdfiV8igvgJxp_VcwRDtfGGovwtNywWw5FpIe6FqYuT6LVXkw/viewform?usp=sharing&amp;ouid=111841773839267096112" target=&ldquo;blank&rdquo;>here</a>. I will read every submission and take it into consideration.
+</p>
+<p>There will also be an opportunity to provide formal feedback and evaluate the course at the end of the semester.
+</p>
+<h2>Course Policies</h2>
+<h3>AI  </h3>
+<p>This course is on AI systems; you are welcome (and encouraged) to use AI tools for preparation for your presentation. Examples: Chatbots for answering questions on the paper; coding agents for empirical experiments, Claude for slide drafting. etc. The grade will prioritize the quality of the defence of the presentation and the activity in the discussion. Thus, it is critical that you understand the material, even if you used AI for some part of the preparation.  
+</p>
+<h3>Inclusion  </h3>
+<p>We are committed to creating a learning environment welcoming of all students that supports a diversity of thoughts, perspectives and experiences, and respects your identities and backgrounds (including race/ethnicity, nationality, gender identity, socioeconomic class, sexual orientation, language, religion, ability, etc.) To help accomplish this:
+</p>
+<ol>
+<li><p>Please let us know if you have a name and/or set of pronouns that differ from those that appear in your official records.  
+</p>
+</li>
+<li><p>If you feel like your performance in the class is being impacted by your experiences outside of class (e.g., family matters, current events), please do not hesitate to come and talk with us. We want to be resources for you.
+</p>
+</li>
+<li><p>We (like many people) are still in the process of learning about diverse perspectives and identities. If something was said in class (by anyone) that made you feel uncomfortable, please talk to us about it. 
+</p>
+</li>
+</ol>
+<p>As a participant in this class, recognize that you can be proactive about making other students feel included and respected.
+</p>
+</td>
+</tr>
+</table>
+</body>
+</html>
