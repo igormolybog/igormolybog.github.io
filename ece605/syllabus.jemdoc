@@ -31,7 +31,7 @@ The class does not have homework assignments, but it *has a final project*.
 
 Each paper will be presented by a group of students, each assuming a specific "role." These roles provide distinct perspectives and help structure your exploration and understanding of the paper. Below are detailed instructions and guiding questions for each role to ensure your presentations are insightful and educational.
 
-==== Stakeholder ✍️ (25 minutes)
+==== Stakeholder ✍️ (18 min + 3 min Q&A)
 
 Act as the authors of the paper. Your goal is to communicate the essence of your work clearly.
 
@@ -49,7 +49,7 @@ Act as the authors of the paper. Your goal is to communicate the essence of your
 -- Why do these results matter?  
 -- What insights do these results provide?
 
-==== Scientific Reviewer 🔎 (15 minutes)
+==== Scientific Reviewer 🔎 (12 min + 3 min Q&A)
 
 Critically evaluate the paper as if reviewing for a prestigious conference (e.g., [https://neurips.cc/Conferences/2020/PaperInformation/ReviewerGuidelines NeurIPS] "Review Content" or [https://icml.cc/Conferences/2025/ReviewerInstructions ICML] “Main Track Reviewer Form Instructions”). Your review should be actionable rather than descriptive. In other words, it should provide explicit instructions on improving the paper.
 
@@ -65,7 +65,7 @@ Critically evaluate the paper as if reviewing for a prestigious conference (e.g.
 -- How could the paper’s presentation or experiments be made clearer or more convincing?  
 -- Suggest potential follow-up experiments or analyses that could strengthen the paper.
 
-==== Empiricist 👩🏽‍🔬 (15 minutes)
+==== Empiricist 👩🏽‍🔬 (12 min + 3 min Q&A)
 
 Conduct a small-scale implementation or practical exploration of the paper’s ideas or data. Empiricists should aim to reproduce a result and take a next step forward, verifying new hypotheses or extending arguments about the existing claims.
 
@@ -81,7 +81,7 @@ Conduct a small-scale implementation or practical exploration of the paper’s i
 -- What challenges did you encounter during implementation?  
 -- What insights did you gain about the method or model by performing this experiment?
 
-==== Archaeologist 🏺 (15 minutes)
+==== Archaeologist 🏺 (12 min + 3 min Q&A)
 
 Archeologists should contextualize the paper within existing research literature. They should aim to put the paper into perspective, reflect on alternative ways to solve the problem, and emphasize novelty and originality.
 
@@ -92,7 +92,7 @@ Archeologists should contextualize the paper within existing research literature
 -- Identify and briefly describe at least one newer paper that cites and builds upon this current paper.  
 -- How did this subsequent work extend, validate, or challenge the current paper's ideas?
 
-==== Visionary 🔭 (5 minutes)
+==== Visionary 🔭 (5 min + 3 min Q&A)
 
 Imagine and propose a creative yet realistically implementable follow-up research project or novel application inspired by the current paper.
 
@@ -109,16 +109,29 @@ Roles can be presented individually or in groups of up to 3. If working in group
 A student’s self-assignment to a role can be canceled up to one week before the presentation. If swapping roles\/slots due to time conflicts, please discuss it in the Discord forum and notify the professor.  \n
 Each role group (irrespective of how many students are assigned to it) should aim for specified time budgets for each role. However, the depth of the research is expected to be proportional to the number of participants in the group. You are encouraged to have slides for your role. If you do so, I would recommend less than 7-10 slides to make sure stay within our time budget.
 
-*What slides?* To minimize time spent context switching or fighting with screen sharing/projector dongles, we will have a [https://drive.google.com/drive/folders/1GArIkJzJ1Phtca5Qg1_sDW1n2mOj5JwT?usp=drive_link shared pool of slides (hosted on Google)]. Each role group is encouraged to title their slides with "*\[role emoji\]*: *\[student name\]*" (as in "🏺: Jane,John") so that the slides are quickly identified during the session. If you choose to make slides, you're *not* expected to prepare a full-blown presentation -- they're encouraged for visual aids and facilitating the presentation.
+*What slides?* To minimize time spent context switching or fighting with screen sharing/projector dongles, we will have a [https://drive.google.com/drive/folders/1GArIkJzJ1Phtca5Qg1_sDW1n2mOj5JwT?usp=drive_link shared pool of slides]. Each role group is encouraged to title their slides with "*\[role name\]*: *\[student name\]*" (as in "Archeologist: Jane,John") so that the slides are quickly identified during the session.
 
-*Non-presenter role?* If you aren't in the presenting group during a given class period, you are supposed to read through the paper and come up with a question you can ask every role. After a role is done with presenting, you will have the opportunity to ask questions. Your grade for the class will heavily depend on your activity in every seminar (not just your presentations), so please make sure to speak up and be proactive. 
+*Non-presenter role?* If you aren't in the presenting group during a given class period, you are supposed to read through the paper at home and come up with a question you can ask every presenter. After a presenter is done with presenting, you will have the opportunity to ask questions. Your grade for the class will heavily depend on your activity in every seminar (not just your presentations), so please make sure to speak up and be proactive. 
 
 === Project
 
 For the Final Project, students will have the opportunity to participate in a live ML challenge ([https://behavior.stanford.edu/challenge/index.html 2026 BEHAVIOR Challenges]). \n
-To simulate a real-life collaborative research experience, we will aim to form at most two large teams of at least five people each.
+To simulate a real-life collaborative research experience, we will aim to form teams of minimum 3 and maximum 5 people each. Team selection must be finalized by the end of Friday (HST) of Week 2 of the class (using the [https://docs.google.com/spreadsheets/d/1ZX87ISNGc01UB_djdRcY4-Hv6fDj6qizkhnwX5KOAY0/edit?usp=sharing sign-up sheet]).
 
 The project teams will have weekly consultations with the professor and write regular reports.
+
+=== Compute Resources
+
+Students and project teams have several options to consider for computing and GPU resources:
+
+- *UH Koa Cluster*: High-Performance Computing (HPC) cluster provided by the University of Hawaiʻi. See the [https://docs.google.com/document/d/1KhDU0tsA2GHKgsEEBMTHEsyBQ-z2ErbhawwT6W2ldGA/edit?usp=drive_link Koa cluster onboarding guide] to get set up.
+- *ACCESS Allocation*: National Science Foundation (NSF) ACCESS supercomputing allocation. Students will need to register at the [https://access-ci.org/ ACCESS website] and DM their username to the professor on Discord to gain access.
+- *GCP Trial Credits*: Google Cloud Platform provides free trial credits upon sign-up (offering limited GPU resources).
+- *Other Paid Resources* (H100 pricing reference as of Jun 2025):
+-- [https://www.runpod.io/pricing RunPod]: \$1.99–\$2.99\/hour ([https://www.runpod.io/pricing RunPod Pricing])
+-- [https://lambdalabs.com/service/gpu-cloud\#pricing Lambda Labs]: \$2.49–\$3.29\/hour ([https://lambdalabs.com/service/gpu-cloud\#pricing Lambda Labs Pricing])
+-- [https://www.paperspace.com/pricing Paperspace]: \$2.24\/hour ([https://www.paperspace.com/pricing Paperspace Pricing])
+-- [https://www.together.ai/pricing Together AI]: \$2.85\/hour, minimum 8 GPUs ([https://www.together.ai/pricing Together Instant GPU Cluster Pricing])
 
 === Project Deliverable Guidelines
 
