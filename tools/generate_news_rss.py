@@ -64,7 +64,8 @@ def strip_jemdoc_links(text: str) -> str:
     def repl(m):
         url, label = m.group(1), m.group(2)
         return f"{label} ({url})"
-    return re.sub(r"\[(https?://[^\s\]]+)\s+([^\]]+)\]", repl, text)
+    text = re.sub(r"\[(https?://[^\s\]]+)\s+([^\]]+)\]", repl, text)
+    return text.replace(r"\$", "$")
 
 
 def build_rss(items, base_url: str) -> str:
