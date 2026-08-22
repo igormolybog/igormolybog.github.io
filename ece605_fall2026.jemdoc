@@ -7,6 +7,16 @@
 - [https://discord.gg/cvRsG6mqaM Discord forum]
 - [https://docs.google.com/forms/d/e/1FAIpQLScM9HypTqntQSK-NxOu_M5lIeTh6UG8ER9N6UM8jD2_XgoAlA/viewform?usp=publish-editor Project submission form]
 
+== Course Overview
+ECE 605 is an advanced graduate research seminar and project course dedicated to the scientific principles, systems architectures, and learning dynamics of frontier Large-Scale AI. 
+
+The Fall 2026 offering focuses on the convergence of *Vision-Language Models, Generative Action Policies, and Embodied AI*, exploring five thematic clusters through breakthrough literature:
+- *Challenge Foundations & Interactive Simulation*: Deep dive into the OmniGibson environment, BEHAVIOR-1K benchmark, and state-of-the-art competition solutions.
+- *Vision-Language-Action (VLA) Architectures*: From multimodal backbones (ViT, SigLIP, PaliGemma) to continuous flow-based policies ($\pi_0$, $\pi_{0.5}$, $\pi_{RL}$), generalist humanoids (GR00T, Octo, OpenVLA), and System 2 action reasoning (MolmoAct2).
+- *Robotics Data Systems & Scaling Laws*: Cross-embodiment agglomeration datasets (Open X-Embodiment, DROID), novel demonstration pipelines (UMI, DART), synthetic simulation data (RoboGen), and empirical data scaling laws.
+- *World Models & Latent Planning*: Joint-Embedding Predictive Architectures (I-JEPA, V-JEPA 2.1, LeWorldModel) and generative video foundation models as physics engines for real-time planning.
+- *Hybrid & Multimodal Frontiers*: Distilling classical motion planners into visual policies and integrating tactile/force feedback via Mixture-of-Experts (ForceVLA).
+
 == Class schedule
 - Monday and Wednesday, 10:30-11:45, Moore Hall 203 ([https://hawaii.zoom.us/j/84384222329 zoom link]; password: ece)
 - Office hours: by [https://calendar.app.google/mLp9CvS96utpEjDK6 appointment] or after class
