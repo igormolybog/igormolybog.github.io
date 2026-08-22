@@ -58,6 +58,7 @@ that are robust to noise and highly scalable with the amount of available comput
 <div style="clear:both;"></div>
 ~~~
 
+- August 2026: Check out [https://www.linkedin.com/in/yosubshin/ Yosub Shin]'s new [https://yosubshin.github.io/ blog series] on training and honestly evaluating diffusion policies on low-cost robot arms ($300 SO-101 class), covering [https://yosubshin.github.io/2026/08/so101-part1-training/ training lessons & dead ends] and [https://yosubshin.github.io/2026/08/so101-part2-evaluation/ physical evaluation variance].
 - August 2026: HawAII is seeking a highly motivated Graduate Assistant to join our [https://alu.institute/ Alu] team starting Fall 2026. See the [docs/GA_position_High_DFW_project.pdf job posting] for more details.
 - July 2026: The first paper from the bioinformatics wing of HawAII is on arXiv! [https://arxiv.org/abs/2608.02961 Scaling an Autoregressive Transformer for Single-Cell Generation] is a story about an embedding model for single-cell RNA expression profiles with predictable scaling properties.
 - June 2026: The paper [https://arxiv.org/abs/2601.10922 What Matters in Data Curation for Multimodal Reasoning? Insights from the DCVLR Challenge] will be presented at the ICML 2026 [https://qanta-org.github.io/competition/2026/icml/ Efficient Multimodal Question Answering] workshop. 
