@@ -113,7 +113,7 @@ Imagine and propose a creative yet realistically implementable follow-up researc
 
 Roles can be presented individually or in groups of up to 3. If working in groups, ensure each member has a clear, equitable role to present and discuss during class.
 
-*Who presents what role and when?* Starting from the beginning of the semester, students will be able to assign themselves to a paper\/role using the [https://docs.google.com/spreadsheets/d/1ZX87ISNGc01UB_djdRcY4-Hv6fDj6qizkhnwX5KOAY0/edit?usp=sharing *sign-up sheet*].  \n
+*Who presents what role and when?* Starting from the beginning of the semester, students will be able to assign themselves to a paper\/role using the [https://docs.google.com/spreadsheets/d/1ZX87ISNGc01UB_djdRcY4-Hv6fDj6qizkhnwX5KOAY0/edit?usp=sharing *sign-up sheet*]. Please make sure to enter your name, Discord handle on the *Students* tab of the sign-up sheet so your classmates and the professor can coordinate with you.  \n
 There will be a line that slowly moves down the sign-up sheet as the semester progresses. Any open slots that were not filled out voluntarily will be assigned randomly. Above this line, all voluntary and randomly assigned slots are *fixed*:
 - You cannot disappear from a slot above the line (unless you drop the class).
 - You can appear above the line if someone else drops the class and the vacant spot gets reassigned.
@@ -138,7 +138,7 @@ The project teams will have weekly consultations with the professor and write re
 Students and project teams have several options to consider for computing and GPU resources:
 
 - *UH Koa Cluster*: High-Performance Computing (HPC) cluster provided by the University of Hawaiʻi. See the [https://docs.google.com/document/d/1KhDU0tsA2GHKgsEEBMTHEsyBQ-z2ErbhawwT6W2ldGA/edit?usp=drive_link Koa cluster onboarding guide] to get set up.
-- *ACCESS Allocation*: National Science Foundation (NSF) ACCESS supercomputing allocation. Students will need to register at the [https://access-ci.org/ ACCESS website] and DM their username to the professor on Discord to gain access.
+- *ACCESS Allocation*: National Science Foundation (NSF) ACCESS supercomputing allocation. Students will need to register at the [https://access-ci.org/ ACCESS website] and indicate their ACCESS username and Discord handle on the *Students* tab of the [https://docs.google.com/spreadsheets/d/1ZX87ISNGc01UB_djdRcY4-Hv6fDj6qizkhnwX5KOAY0/edit?usp=sharing sign-up sheet] to gain access.
 - *GCP Trial Credits*: Google Cloud Platform provides free trial credits upon sign-up (offering limited GPU resources).
 - *Other Paid Resources* (H100 pricing reference as of Jun 2025):
 -- [https://www.runpod.io/pricing RunPod]: \$1.99–\$2.99\/hour ([https://www.runpod.io/pricing RunPod Pricing])
