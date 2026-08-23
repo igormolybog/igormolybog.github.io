@@ -149,7 +149,21 @@ Students and project teams have several options to consider for computing and GP
 
 === Project Deliverable Guidelines
 
-There are three key milestones that will require reporting: the *Summary Proposal*, *Midway Report*, and *Final Report*. One report is required per team. Along with the combined report, every student will be required to submit a personal contributions attachment, outlining the efforts they contributed to the team's progress toward the milestone.
+To maintain continuous momentum, accountability, and regular personal feedback, students submit **Weekly Individual Progress Reports**, alongside the three major team milestone reports: the *Summary Proposal*, *Midway Report*, and *Final Report*.
+
+==== Weekly Individual Progress Report
+
+*Due:* Friday by end of day (HST) every week  
+*Submission Form:* [https://docs.google.com/forms/d/1HlBZnrYlMz2yLkTLsWDAdRnEKcokpHSAJpqn7YixYZo/edit Assignment Submission Form], assignemnt "Weekly Individual Progress Report"
+
+To foster accountability, each student is required to submit an individual report (PDF or Markdown file) in a concise 4-point format:
+
+. *Work on class planned for this past week*: What did you set out to achieve for the project this week?  
+. *Done this week*: What concrete progress, research, code, or tasks did you complete?  
+. *Plans for the next week*: What are your specific goals and milestones for the upcoming week?  
+. *Blockers / Issues*: What bottlenecks, technical difficulties, or questions are slowing you down?
+
+These weekly reports directly inform consultation discussions and the individual contribution score.
 
 ==== Summary Proposal
 
@@ -283,7 +297,7 @@ Role-playing seminar participation grade is calculated roughly using the followi
 Project performance is calculated in two steps, roughly using the following rule:
 
 - Step 1 (Team Performance): The team’s work at the milestone is evaluated on technical quality, progress against goals, rigor of experiments, and reproducibility, resulting in a Team Performance Score (0–100).   
-- Step 2 (Individual Contribution Weighting): that score is then allocated across team members in proportion to demonstrated contribution. Contributions are inferred from weekly consultations, milestone artifacts (code, experiments, docs), and each student’s Personal Contribution Statement, with light peer input for calibration. As a guardrail, weights are usually bounded to a reasonable range (e.g., \~0.7×–1.3×) unless there is clear evidence for outliers. The default assumption is equal shares when evidence is insufficient. Students may request a brief calibration check within one week of feedback if they believe their weighting doesn’t match the submitted evidence.
+- Step 2 (Individual Contribution Weighting): that score is then allocated across team members in proportion to demonstrated contribution. Contributions are inferred from weekly progress reports, weekly consultations, milestone artifacts (code, experiments, docs), and each student’s Personal Contribution Statement, with light peer input for calibration. As a guardrail, weights are usually bounded to a reasonable range (e.g., \~0.7×–1.3×) unless there is clear evidence for outliers. The default assumption is equal shares when evidence is insufficient. Students may request a brief calibration check within one week of feedback if they believe their weighting doesn’t match the submitted evidence.
 
 Rubric for evaluating personal contributions:
 
