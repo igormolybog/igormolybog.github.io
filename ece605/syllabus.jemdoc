@@ -142,7 +142,7 @@ To ensure clear coordination and accountability, each project team should define
 -- Scheduling internal team meetings and coordinating weekly consultations with the professor.
 -- Submitting the collective team milestone reports (Summary Proposal, Midway Report, and Final Report).
 -- Tracking overall team progress and timelines.
-- *Technical Roles*: Teams are encouraged to distribute specialized responsibilities across members (e.g., data pipeline & environment setup, baseline modeling, evaluation & ablation experiments).
+- *Technical Roles*: Teams are encouraged to distribute specialized responsibilities across members (e.g. technical planning, data pipeline & environment setup, baseline modeling, evaluation & ablation experiments).
 
 === Compute Resources
 
