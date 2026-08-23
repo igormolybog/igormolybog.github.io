@@ -134,6 +134,16 @@ To simulate a real-life collaborative research experience, we will aim to form t
 
 The project teams will have weekly consultations with the professor and write regular reports.
 
+==== Team Roles and Project Management
+
+To ensure clear coordination and accountability, each project team should define internal roles:
+- *Coordinator*: Each team must designate a Coordinator (marked with "x" in the corresponding column of the *Team Mapping* sheet in the [https://docs.google.com/spreadsheets/d/1ZX87ISNGc01UB_djdRcY4-Hv6fDj6qizkhnwX5KOAY0/edit?usp=sharing sign-up spreadsheet]). The Coordinator is responsible for:
+-- Coordinating team communication and curating team discussion threads.
+-- Scheduling internal team meetings and coordinating weekly consultations with the professor.
+-- Submitting the collective team milestone reports (Summary Proposal, Midway Report, and Final Report).
+-- Tracking overall team progress and timelines.
+- *Technical Roles*: Teams are encouraged to distribute specialized responsibilities across members (e.g., data pipeline & environment setup, baseline modeling, evaluation & ablation experiments).
+
 === Compute Resources
 
 Students and project teams have several options to consider for computing and GPU resources:
@@ -154,7 +164,7 @@ To maintain continuous momentum, accountability, and regular personal feedback, 
 ==== Weekly Individual Progress Report
 
 *Due:* Friday by end of day (HST) every week  
-*Submission Form:* [https://docs.google.com/forms/d/1HlBZnrYlMz2yLkTLsWDAdRnEKcokpHSAJpqn7YixYZo/edit Assignment Submission Form], assignemnt "Weekly Individual Progress Report"
+*Submission Form:* [https://docs.google.com/forms/d/1HlBZnrYlMz2yLkTLsWDAdRnEKcokpHSAJpqn7YixYZo/edit Assignment Submission Form], assignment "Weekly Individual Progress Report"
 
 To foster accountability, each student is required to submit an individual report (PDF or Markdown file) in a concise 4-point format:
 
@@ -259,7 +269,7 @@ Include the following sections:
 
 ==== Example project reports.
 
-Last year, the project topic was more open-ended. Based on the feedback, we introduce more structure to the project’s goals. However, the format of milestone reports remains largely unchanged.  \n
+A couple of years back, the project topic was more open-ended. Based on the feedback, we introduce more structure to the project’s goals. However, the format of milestone reports remains largely unchanged.  \n
 Examples in the table below are aiming to provide a feeling of how a report and feedback might look. The reports are not perfect, and some criticism is provided in the feedback section.
 
 ~
@@ -274,7 +284,7 @@ Please feel free to use the [https://www.overleaf.com/latex/templates/neurips-20
 
 ==== Personal contribution statement
 
-Aside from the team report (only submitted by one team member), there is a required submission of a personal contribution statement (one per team member). This way, one person per team ends up submitting 2 reports per milestone (team \+ personal), while the rest only submit one report per milestone (personal contribution). This requirement is put in place to mimc the (semi-)annual review process common in industrial AI labs.  \n
+Aside from the collective team report (submitted by the Coordinator), there is a required submission of a personal contribution statement (one per team member). This way, the Coordinator submits 2 reports per milestone (team \+ personal), while the rest of the team submit one report per milestone (personal contribution). This requirement is put in place to mimic the (semi-)annual review process common in industrial AI labs.  \n
 Please feel free to use the [https://docs.google.com/document/d/1wkPcsvy3HKrj0knqanYslUS4MwyweixwKNa-j1G9f3g/edit?usp=sharing Personal Contribution Statement (template)] to format your report (optional).
 
 *Project reports should be submitted through the form*: [https://docs.google.com/forms/d/e/1FAIpQLScM9HypTqntQSK-NxOu_M5lIeTh6UG8ER9N6UM8jD2_XgoAlA/viewform?usp=publish-editor here]
@@ -292,7 +302,8 @@ Role-playing seminar participation grade is calculated roughly using the followi
 
 *Collaborative Q&A in Grading:*  \n
 - *For Presenters:* Answering questions thoroughly demonstrates command of the paper and secures top presentation marks (\+2 to \+3 points). If you encounter a knowledge gap or difficult question, engaging openly and inviting/receiving helpful clarifications from the class still adds a plus to your performance (though directly resolving the question yourself earns the most credit).  
-- *For Audience Members:* Stepping in constructively to help answer questions, share insights, or bridge knowledge gaps during Q&A is highly valued and counts directly toward active participation (\+1 or \+3 points).
+- *For Audience Members:* Stepping in constructively to help answer questions, share insights, or bridge knowledge gaps during Q&A is highly valued and counts directly toward active participation (\+1 or \+3 points).  
+- *Presentation Feedback:* Detailed feedback on your presentation is available through 1:1 conversations with the professor. Please [https://calendar.app.google/mLp9CvS96utpEjDK6 book office hours] to review your performance and get actionable feedback.
 
 Project performance is calculated in two steps, roughly using the following rule:
 
