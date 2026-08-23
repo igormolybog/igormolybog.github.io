@@ -144,6 +144,10 @@ To ensure clear coordination and accountability, each project team should define
 -- Tracking overall team progress and timelines.
 - *Technical Roles*: Teams are encouraged to distribute specialized responsibilities across members (e.g. technical planning, data pipeline & environment setup, baseline modeling, evaluation & ablation experiments).
 
+==== Cross-Team Collaboration
+
+While each team pursues their own solution, *cross-team collaboration is strongly encouraged*. Sharing compute infrastructure scripts, data preprocessing pipelines, baseline code, and helping unblock peers across teams simulates real-world collaborative AI lab environments. Meaningful cross-team contributions should be highlighted in your Personal Contribution Statement and will be positively rewarded in the grading rubric.
+
 === Compute Resources
 
 Students and project teams have several options to consider for computing and GPU resources:
@@ -285,6 +289,9 @@ Please feel free to use the [https://www.overleaf.com/latex/templates/neurips-20
 ==== Personal contribution statement
 
 Aside from the collective team report (submitted by the Coordinator), there is a required submission of a personal contribution statement (one per team member). This way, the Coordinator submits 2 reports per milestone (team \+ personal), while the rest of the team submit one report per milestone (personal contribution). This requirement is put in place to mimic the (semi-)annual review process common in industrial AI labs.  \n
+In your personal contribution statement, clearly highlight:
+- Your direct technical deliverables and ownership within your team.
+- Cross-team collaboration & enablement: Any tools, shared infrastructure, data pipelines, code reviews, or troubleshooting assistance you provided to help other teams in the class.  \n
 Please feel free to use the [https://docs.google.com/document/d/1wkPcsvy3HKrj0knqanYslUS4MwyweixwKNa-j1G9f3g/edit?usp=sharing Personal Contribution Statement (template)] to format your report (optional).
 
 *Project reports should be submitted through the form*: [https://docs.google.com/forms/d/e/1FAIpQLScM9HypTqntQSK-NxOu_M5lIeTh6UG8ER9N6UM8jD2_XgoAlA/viewform?usp=publish-editor here]
@@ -312,9 +319,9 @@ Project performance is calculated in two steps, roughly using the following rule
 
 Rubric for evaluating personal contributions:
 
-- Technical ownership & delivery (40%): scoped, shipped, reproducible artifacts tied to roadmap. Includes technical enablement of other students in the class (teammates or otherwise)  
+- Technical ownership & delivery (40%): scoped, shipped, reproducible artifacts tied to roadmap. Includes technical enablement of other students in the class (teammates or other teams)  
 - Measured impact (25%): metrics moved vs. baseline; ablations; clarity of results  
-- Collaboration & enablement (20%): code reviews, docs, unblockings, shared infra  
+- Collaboration & enablement (20%): intra-team and cross-team collaboration, shared infra, code reviews, docs, unblocking other students  
 - Rigor & safety (10%): data hygiene, eval soundness, reproducibility, risk checks  
 - Communication (5%): crisp reports, decision logs, responsible self-assessment
 
