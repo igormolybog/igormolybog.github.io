@@ -29,7 +29,7 @@ The class does not have homework assignments, but it *has a final project*.
 
 === Role-playing seminar
 
-Each paper will be presented by a group of students, each assuming a specific "role." These roles provide distinct perspectives and help structure your exploration and understanding of the paper. Below are detailed instructions and guiding questions for each role to ensure your presentations are insightful and educational.
+Each paper will be presented by a group of students, each assuming a specific "role." These roles provide distinct perspectives and help structure your exploration and understanding of the paper. Although responsibilities are separated across individual roles, the presentation is a collaborative team activity. Below are detailed instructions and guiding questions for each role to ensure your presentations are insightful and educational.
 
 ==== Stakeholder ✍️ (18 min + 3 min Q&A)
 
@@ -94,8 +94,16 @@ Archeologists should contextualize the paper within existing research literature
 
 ==== Visionary 🔭 (5 min + 3 min Q&A)
 
-Imagine and propose a creative yet realistically implementable follow-up research project or novel application inspired by the current paper.
+Imagine and propose a creative yet realistically implementable follow-up research project or novel application inspired by the current paper, and explore how the ideas connect to the course project challenge.
 
+- Team Coordination Checklist (1 week prior to presentation, once all presenters have read the paper; exception: first two weeks):  
+-- The Visionary is responsible for creating a group thread with the other role presenters in the [https://discord.gg/cvRsG6mqaM Discord forum] and curating the conversation.  
+-- Coordinate so subsequent roles do not repeat background, architecture, or baseline summaries already covered by the Stakeholder.  
+-- Ensure that the Empiricist's practical exploration aligns with and complements the Reviewer's critique.  
+-- Verify that proposed follow-ups account for subsequent literature identified by the Archaeologist.  
+-- Confirm all role slides are properly titled and uploaded to the [https://drive.google.com/drive/folders/1GArIkJzJ1Phtca5Qg1_sDW1n2mOj5JwT?usp=drive_link shared pool of slides] at least 1 hour before class.  
+- Connection to the Challenge:  
+-- Report on how the paper connects to the course challenge ([https://behavior.stanford.edu/challenge/index.html 2026 BEHAVIOR Challenges]). How can the paper's techniques, models, or insights be applied?  
 - Proposed Research Project:  
 -- Clearly describe a new research question or hypothesis that logically follows from this paper.  
 -- Why is this follow-up project important or exciting?  
