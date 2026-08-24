@@ -49,7 +49,7 @@ Act as the authors of the paper. Your goal is to communicate the essence of your
 -- Why do these results matter?  
 -- What insights do these results provide?
 
-==== Scientific Reviewer 🔎 (12 min + 3 min Q&A)
+==== Scientific Reviewer 🔎 (8 min + 3 min Q&A)
 
 Critically evaluate the paper as if reviewing for a prestigious conference (e.g., [https://neurips.cc/Conferences/2020/PaperInformation/ReviewerGuidelines NeurIPS] "Review Content" or [https://icml.cc/Conferences/2025/ReviewerInstructions ICML] “Main Track Reviewer Form Instructions”). Your review should be actionable rather than descriptive. In other words, it should provide explicit instructions on improving the paper.
 
@@ -65,7 +65,7 @@ Critically evaluate the paper as if reviewing for a prestigious conference (e.g.
 -- How could the paper’s presentation or experiments be made clearer or more convincing?  
 -- Suggest potential follow-up experiments or analyses that could strengthen the paper.
 
-==== Empiricist 👩🏽‍🔬 (12 min + 3 min Q&A)
+==== Empiricist 👩🏽‍🔬 (11 min + 3 min Q&A)
 
 Conduct a small-scale implementation or practical exploration of the paper’s ideas or data. Empiricists should aim to reproduce a result and take a next step forward, verifying new hypotheses or extending arguments about the existing claims.
 
@@ -81,7 +81,7 @@ Conduct a small-scale implementation or practical exploration of the paper’s i
 -- What challenges did you encounter during implementation?  
 -- What insights did you gain about the method or model by performing this experiment?
 
-==== Archaeologist 🏺 (12 min + 3 min Q&A)
+==== Archaeologist 🏺 (11 min + 3 min Q&A)
 
 Archeologists should contextualize the paper within existing research literature. They should aim to put the paper into perspective, reflect on alternative ways to solve the problem, and emphasize novelty and originality.
 
@@ -92,7 +92,7 @@ Archeologists should contextualize the paper within existing research literature
 -- Identify and briefly describe at least one newer paper that cites and builds upon this current paper.  
 -- How did this subsequent work extend, validate, or challenge the current paper's ideas?
 
-==== Visionary 🔭 (5 min + 3 min Q&A)
+==== Visionary 🔭 (11 min + 3 min Q&A)
 
 Imagine and propose a creative yet realistically implementable follow-up research project or novel application inspired by the current paper, and explore how the ideas connect to the course project challenge.
 
