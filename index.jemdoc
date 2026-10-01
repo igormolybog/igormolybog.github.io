@@ -58,6 +58,8 @@ that are robust to noise and highly scalable with the amount of available comput
 <div style="clear:both;"></div>
 ~~~
 
+- October 2026: Check out [https://arxiv.org/abs/2609.38216 Fiatlux], our new benchmark for evaluating humanoid robot policies on infrastructure maintainance tasks that are hazardous for humans.
+- October 2026: We are releasing a benchmark and a technical report [http://arxiv.org/abs/2609.31587 "Compact Documentation for Coding Agents"] on properties of static code documentation and its value for autonomous coding.
 - September 2026: Our new paper, lead by [https://shidler.hawaii.edu/itm/directory/quang-loc-lam Quang Loc Lam], "Alu: Aligning a Generative AI Class Companion with Instructor Pedagogy to Address Instructional Challenges" has been accepted to [https://hicss.hawaii.edu/ Hawaii International Conference on System Sciences (HICSS-60)].
 - August 2026: Check out [https://www.linkedin.com/in/yosubshin/ Yosub Shin]'s new [https://yosubshin.github.io/ blog series] on training and honestly evaluating diffusion policies on low-cost robot arms, covering [https://yosubshin.github.io/2026/08/so101-part1-training/ training lessons & dead ends] and [https://yosubshin.github.io/2026/08/so101-part2-evaluation/ physical evaluation variance].
 - August 2026: HawAII is seeking a highly motivated Graduate Assistant to join our [https://alu.institute/ Alu] team starting Fall 2026. See the [docs/GA_position_High_DFW_project.pdf job posting] for more details.
