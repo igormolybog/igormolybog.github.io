@@ -5,14 +5,28 @@
     <link>https://igormolybog.github.io/</link>
     <description>Updates from the News section</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 01 Oct 2026 05:31:55 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 17 Oct 2026 07:05:25 +0000</lastBuildDate>
     <atom:link rel="self" type="application/rss+xml" href="https://igormolybog.github.io/news.xml" />
+    <item>
+      <title>Aiming at more scalable robotic data collection, we have developed an electronics-free glove that can be used with a head-mounted camera...</title>
+      <link>https://github.com/YosubShin/yam-umi/blob/track3-draft/paper-headcam/main.pdf</link>
+      <guid isPermaLink="false">28ff57e1c567fde50fcd546051999c4f2eec7696</guid>
+      <pubDate>Thu, 01 Oct 2026 12:00:00 +0000</pubDate>
+      <description>October 2026: Aiming at more scalable robotic data collection, we have developed an electronics-free glove that can be used with a head-mounted camera to record trajectories of expert manipulators. More details in our new preprint (https://github.com/YosubShin/yam-umi/blob/track3-draft/paper-headcam/main.pdf)!</description>
+    </item>
+    <item>
+      <title>HawAII is proud to host our alumnus, [https://www</title>
+      <link>https://www.linkedin.com/in/honggen-zhang-2b42b0282/</link>
+      <guid isPermaLink="false">f1a39ec37327ee520971899361ceb25a58d5f7d1</guid>
+      <pubDate>Thu, 01 Oct 2026 12:00:00 +0000</pubDate>
+      <description>October 2026: HawAII is proud to host our alumnus, Honggen Zhang (https://www.linkedin.com/in/honggen-zhang-2b42b0282/), a Senior AI Scientist at the Innovation Center of XtalPi and a Postdoctoral Fellow at Peking University Health Science Center with a talk on siRNA-mRNA interaction modeling for drug discovery. Join us on Friday, Oct 16, 1400-1500 HST at Holmes Hall 411 or on Google Meet (https://meet.google.com/vtc-fucg-ncq)! (Google Calendar (https://calendar.app.google/skn4xPfN1Nkoqyo88))</description>
+    </item>
     <item>
       <title>Check out [https://arxiv</title>
       <link>https://arxiv.org/abs/2609.38216</link>
-      <guid isPermaLink="false">75f3cb115a2704ae713e5e97998bd761ff93ff58</guid>
+      <guid isPermaLink="false">ef62cad74bca7d8f00fa4433aed3880a7cfff4db</guid>
       <pubDate>Thu, 01 Oct 2026 12:00:00 +0000</pubDate>
-      <description>October 2026: Check out Fiatlux (https://arxiv.org/abs/2609.38216), our new benchmark for evaluating humanoid robot policies on infrastructure maintainance tasks that are hazardous for humans.</description>
+      <description>October 2026: Check out Fiatlux (https://arxiv.org/abs/2609.38216), our new benchmark for evaluating humanoid robot policies on infrastructure maintenance tasks that are hazardous for humans.</description>
     </item>
     <item>
       <title>We are releasing a benchmark and a technical report [http://arxiv</title>
@@ -22,11 +36,11 @@
       <description>October 2026: We are releasing a benchmark and a technical report "Compact Documentation for Coding Agents" (http://arxiv.org/abs/2609.31587) on properties of static code documentation and its value for autonomous coding.</description>
     </item>
     <item>
-      <title>Our new paper, lead by [https://shidler</title>
+      <title>Our new paper, led by [https://shidler</title>
       <link>https://shidler.hawaii.edu/itm/directory/quang-loc-lam</link>
-      <guid isPermaLink="false">6c6761bd97053629b04e192dd5636e27d4a756b3</guid>
+      <guid isPermaLink="false">9d6d79b0cdd30109934b99bfb14188722f298969</guid>
       <pubDate>Tue, 01 Sep 2026 12:00:00 +0000</pubDate>
-      <description>September 2026: Our new paper, lead by Quang Loc Lam (https://shidler.hawaii.edu/itm/directory/quang-loc-lam), "Alu: Aligning a Generative AI Class Companion with Instructor Pedagogy to Address Instructional Challenges" has been accepted to Hawaii International Conference on System Sciences (HICSS-60) (https://hicss.hawaii.edu/).</description>
+      <description>September 2026: Our new paper, led by Quang Loc Lam (https://shidler.hawaii.edu/itm/directory/quang-loc-lam), "Alu: Aligning a Generative AI Class Companion with Instructor Pedagogy to Address Instructional Challenges" has been accepted to Hawaii International Conference on System Sciences (HICSS-60) (https://hicss.hawaii.edu/).</description>
     </item>
     <item>
       <title>Check out [https://www</title>
@@ -484,11 +498,11 @@
       <description>November 2021: I will give a talk "Topological complexity of polynomials" at the Control and Optimization seminar, IEOR Department at University of California, Berkeley. ([Presentation_Spin_Glass_November_2021.pdf slides])</description>
     </item>
     <item>
-      <title>I am organising session "Reaching Global Optimum in Non-Convex Optimization Problems" at the INFORMS Annual Meeting 2021</title>
+      <title>I am organizing a session "Reaching Global Optimum in Non-Convex Optimization Problems" at the INFORMS Annual Meeting 2021</title>
       <link>https://igormolybog.github.io/</link>
-      <guid isPermaLink="false">000eea97784d06b7986742fc57102da22b1d15d8</guid>
+      <guid isPermaLink="false">0edc6e8189ffe9db1d56fe277653576ef247d2a4</guid>
       <pubDate>Wed, 01 Sep 2021 12:00:00 +0000</pubDate>
-      <description>September 2021: I am organising session "Reaching Global Optimum in Non-Convex Optimization Problems" at the INFORMS Annual Meeting 2021.</description>
+      <description>September 2021: I am organizing a session "Reaching Global Optimum in Non-Convex Optimization Problems" at the INFORMS Annual Meeting 2021.</description>
     </item>
     <item>
       <title>I will present the paper [https://arxiv</title>
@@ -526,11 +540,11 @@
       <description>June 2020: Our new paper Global convergence of MAML for LQR (https://lavaei.ieor.berkeley.edu/Meta_2020_1.pdf) is accessible online.</description>
     </item>
     <item>
-      <title>I gave a talk "Frontiers of Deep Learning: overview of Simon's Institute summer workshops" at the Control and Optimization seminar, IEOR...</title>
+      <title>I gave a talk "Frontiers of Deep Learning: overview of Simons Institute summer workshops" at the Control and Optimization seminar, IEOR D...</title>
       <link>https://igormolybog.github.io/</link>
-      <guid isPermaLink="false">9a316be3a47cf59d02b7e2b825b5c3f218aa21de</guid>
+      <guid isPermaLink="false">1c5bf821a7c864fa20a76d239d9c80da9eef6fc6</guid>
       <pubDate>Thu, 01 Aug 2019 12:00:00 +0000</pubDate>
-      <description>August 2019: I gave a talk "Frontiers of Deep Learning: overview of Simon's Institute summer workshops" at the Control and Optimization seminar, IEOR Department at University of California, Berkeley. ([simonsTalk.pdf slides])</description>
+      <description>August 2019: I gave a talk "Frontiers of Deep Learning: overview of Simons Institute summer workshops" at the Control and Optimization seminar, IEOR Department at University of California, Berkeley. ([simonsTalk.pdf slides])</description>
     </item>
     <item>
       <title>The paper [http://www</title>
